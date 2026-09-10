@@ -6,9 +6,9 @@ const sets = ['Összes','Alliance and Empire', 'Bounty Hunters', 'Champions of t
 let chosenSet = "Összes";
 let chosenFraction = "Összes";
 let chosenRarity = "Összes";
-let chosenMaxPoint = 115
-let chosenMinPoint = 0
-let chosenTeamName = ''
+let chosenMaxPoint = 115;
+let chosenMinPoint = 0;
+let chosenTeamName = '';
 const skills = ["Absorb Energy", "Absorb Minerals", "Accelerate", "Accurate Shot", "Advantageous Attack", "Advantageous Cover", "Affinity", "Aing-Tii Flow-Walking", "Alderaan Senator", "Ambush", "Anticipation", "Armored Spacesuit", "Artillerist", "Ataru Style", "Ataru Style Mastery", "Atlatl", "Augment Healing", "Avoid Defeat", "Battle Meditation", "Betrayal", "Black Sun", "Blast Cannon", "Blaster", "Blaster Barrage", "Blaster Rifle Upgrade", "Blaster Upgrade", "Bloodthirsty", "Bodyguard", "Bombad Gungan", "Booming Voice", "Bounty Hunter", "Bravado", "Breath Mask", "Careful Shot", "Cay'S Legacy", "Cesta", "Charging Assault", "Charging Fire", "Clamp", "Cleave", "Cloaked", "Close-Quarters Fighting", "Commander Effect", "Control Minds", "Cortosis Gauntlet", "Crack Gunner", "Crowd Fighting", "Cunning Attack", "Cyborg", "Damage Reduction", "Dark Armor", "Dark Force Spirit", "Dark Inspiration", "Dark Master", "Dark Temptation", "Deadeye", "Deadly Attack", "Deathstrike", "Deceptive", "Defensive Plates", "Dejarik", "Delta Fire Support", "Delta Shield Support", "Demolish", "Demolition Charge", "Density Projector", "Desert Skiff", "Destabilize Shields", "Diplomat", "Disintegration", "Dispassionate Killer","Disruptive", "Djem So Style", "Djem So Style Mastery", "Doctrine Of Fear", "Dominate", "Door Gimmick", "Double Attack", "Double Claw Attack", "Drain Life", "Drain Life Energy", "Draw Fire", "Droid", "Droid Coordinator", "Droid Defender", "Droid Mark", "Droid Master", "Droid Reinforements", "Electric Shock", "Electrostaff", "Elite Clone Trooper", "Emergency Life Support", "Emp Grenades", "Empathy", "Emperor'S Bodyguard", "Emplacement", "Energy Shield", "Enraging Screech", "Essence Of Life", "Eternal Hatred", "Evade", "Ewok", "Execute Order", "Final Shot", "Fire Control", "Flamethrower", "Flanking Support", "Flight", "Flurry Attack", "Flux Destiny", "Force", "Force Absorb", "Force Alter", "Force Ascetic", "Force Blast", "Force Bubble", "Force Burst", "Force Cloak", "Force Corruption", "Force Defense", "Force Empathic", "Force Grip","Force Heal", "Force Immunity", "Force Leap", "Force Lightning", "Force Phase", "Force Push", "Force Renewal", "Force Repulse", "Force Sense", "Force Spirit", "Force Storm", "Force Strike", "Force Stun", "Force Thrust", "Force Valor", "Force Weapon", "Force Whirlwind", "Force-Attuned Armor", "Fragile", "Fringe Reinforcements", "Fringe Reserves", "Frozen In Carbonite", "Furious Assault", "Galloping Attack", "Gang", "Greater Mobile Attack", "Gregarious", "Grenades", "Ground Pilot", "Gungan", "Gunner", "Hand Of The Emperor", "Harpoon Gun", "Heal", "Heavy Lift", "Heavy Weapon", "Homicidal Surgery", "Illusion", "Immediate Droid Reserve", "Immediate Droid Reserves", "Immobilizing Rend", "Imperial Knight", "Imperial Reserves", "Impulsive Force Renewal", "Impulsive Jedi Hunter", "Impulsive Momentum", "Impulsive Reprisal", "Impulsive Savagery", "Impulsive Shot", "Impulsive Sweep", "Impulsive Twin Attack", "Independent Outfit", "Industrial Repair", "Internal Strife", "Intuition", "Invibility", "Ion Gun", "Ion Shielding", "It'S A Trap!", "Jedi Bodyguard", "Jedi Hunter", "Jedi Mind Trick", "Jolt", "Karmic Luck", "Karmic Mettle", "Knight Speed", "Kouhun Infestation", "Levitation", "Lift", "Lighstaber Assault", "Lighstaber Block", "Lighstaber Throw", "Light Spirit", "Light Tutor", "Lightsaber", "Lightsaber Absorb", "Lightsaber Assault", "Lightsaber Attack", "Lightsaber Block", "Lightsaber Defense", "Lightsaber Delfect", "Lightsaber Duelist", "Lightsaber Precision", "Lightsaber Reflect", "Lightsaber Resistance", "Lightsaber Riposte", "Lightsaber Sweep", "Lightsaber Throw","Lightsbaer Block", "Loner", "Long Shot", "Machinery", "Mandalorian Conscription", "Mandalorian Hunter", "Master Of The Force", "Master Speed", "Master Tactician", "Medical Supplies", "Melee Attack", "Melee Reach", "Mercenary", "Merciless", "Mettle", "Micro-Vision", "Mighty Swing", "Mimetic Combat Processor", "Mines", "Missiles", "Mobile Attack", "Molecular Shielding", "Momentum", "Mounted Weapon", "Munitions Supplies", "Net Gun", "Never Tell Me The Odds", "New Republic/Rebel Reinforcements", "Niman Style", "None", "Ooglith Masquer", "Opportunist", "Order", "Override", "Overwhelming Force", "Painful Screech", "Palpatine'S Bodyguard", "Paralysis", "Parry", "Pathfinder", "Pawn Of The Dark Side", "Penetration", "Pheremones", "Pilot", "Playeryin Bol", "Poison", "Poisoned Blade", "Power Coupling", "Proboscises", "Programmed Target", "Protective", "Protective Aura", "Pulse Cannon", "Quadruple Attack", "Quick Reactions", "Rakghoul Disease", "Rangefinder", "Rapport", "Razorbug", "Recon", "Recovery", "Regeneration", "Relay Orders", "Rend", "Renewal", "Repair", "Republic Reserves", "Resilient", "Rig Blaster", "Rigid", "Roger Roger", "Rolling Cleave", "Sabotage", "Satchel Charge", "Savage", "Scarification", "Scramble", "Self-Destruct", "Separatist Reinforcements", "Separatist Reserves", "Sever Force", "Shaper", "Shatter Beam", "Shatterpoint", "Shields", "Shii-Cho Style", "Shockstaff", "Shockwave", "Sith Grip", "Sith Hatred", "Sith Hunger", "Sith Hunter","Sith Lightning", "Sith Rage", "Sith Sorcery", "Smuggler'S Luck", "Snare Rifle", "Sniper", "Soldier", "Sonic Attack", "Sonic Stunner", "Soresu Style", "Soresu Style Mastery", "Speed", "Spit Poison", "Splash", "Spotter", "Squad Assault", "Squad Cover", "Squad Firepower", "Stable Footing", "Steal Force", "Stealth", "Strafe Attack", "Strong-Willed", "Stun Gas", "Stun Mortar", "Surprise Move", "Swarm", "Synchronized Fire", "Synergy", "Tactics Broker", "Targeting", "Teräs Kesäi Style", "Thrawn'S Bodyguard", "Thud Bug", "Tow Cable", "Trandoshan", "Transfer Essence", "Traps", "Triple Attack", "Troop Cart", "Trooper", "Turn To The Dark Side", "Twin Attack", "Ugnaught", "Unique", "Unleash The Force", "Use The Force", "Vaapad Style", "Vaapad-Style Fighting", "Vicious Attack", "Virulent Poison", "Virulent Poison Dart", "Vonduun Crab Armor", "Wall Climber", "Wheel Form", "Wheeled", "Whirlwind Attack", "Wookiee", "Xizor'S Bodyguard", "Ysalamiri", "Yuuzhan Vong Collaborator", "Yuuzhan Vong Warrior"]
 const chosen_skills = []
 const excluded_skills = []
@@ -64,14 +64,7 @@ const priceGap = 5;
 async function applyPointFilter(minVal, maxVal) {
     chosenMinPoint = minVal;
     chosenMaxPoint = maxVal;
-    
-    // Mivel a dupla csúszkánál buborékok írják ki az értéket, a #point_show span-ra 
-    // valószínűleg már nincs szükség a felületen. Ha mégis, itt frissítheted:
-    // const point_span = document.querySelector('#point_show');
-    // if(point_span) point_span.innerText = minVal + " - " + maxVal;
 
-    // FONTOS: A loadCardsByState függvényed paraméterlistáját (vagy a belső logikáját) 
-    // is módosítanod kell, hogy kezelje a chosenMinPoint-ot is!
     await loadCardsByState();
 }
 
@@ -112,7 +105,7 @@ async function loadCard(card_to_be_loaded, onCardClick){
     cardBg.classList.add('card-bg')
     
     if (card_to_be_loaded.rarity == 'Common'){
-        cardBg.src = 'figure_backgrounds/common.png' // Módosítsd, ha más a fájlnév!
+        cardBg.src = 'figure_backgrounds/common.png'
     }
     else if(card_to_be_loaded.rarity == 'Uncommon'){
         cardBg.src = 'figure_backgrounds/uncommon.png'
@@ -133,21 +126,18 @@ async function loadCard(card_to_be_loaded, onCardClick){
     const cardContent = document.createElement('div')
     cardContent.classList.add('card-content')
 
-            // --- BAL FELSŐ SAROK: Kedvenc gomb ---
     const fav_button = document.createElement('button')
     fav_button.classList.add('fav-btn')
-    fav_button.innerHTML = '<i class="fa-solid fa-user-plus"></i>' // Itt használhatsz FontAwesome ikont is, pl. '<i class="fas fa-heart"></i>'
+    fav_button.innerHTML = '<i class="fa-solid fa-user-plus"></i>' 
     fav_button.title = "Hozzáadás a kedvencekhez"
     fav_button.onclick = () => addCharToTeam(card_to_be_loaded.id, card_to_be_loaded.points, card_to_be_loaded.fraction ,chosenTeamName)
     cardContent.appendChild(fav_button)
 
-            // --- JOBB FELSŐ SAROK: Pontszám ---
     const point = document.createElement('div')
     point.classList.add('point-badge')
     point.textContent = card_to_be_loaded.points
     cardContent.appendChild(point)
 
-            // --- KÖZÉPSŐ TARTALOM: Név és Ritkaság ---
     const name = document.createElement('p')
     name.classList.add('char-name')
     name.textContent = card_to_be_loaded.name
@@ -158,7 +148,6 @@ async function loadCard(card_to_be_loaded, onCardClick){
     rarity.textContent = card_to_be_loaded.rarity
     cardContent.appendChild(rarity)
 
-            // Link / Modal beállítása
     const a = document.createElement('a');
     a.href = '#';
 
@@ -167,10 +156,9 @@ async function loadCard(card_to_be_loaded, onCardClick){
                 onCardClick(card_to_be_loaded)
             });
 
-            // Figura képe
     const img = document.createElement('img')
     img.src = card_to_be_loaded.figure_img
-    img.classList.add('figure-img') // FONTOS: Megkapja a CSS osztályt!
+    img.classList.add('figure-img') 
 
     if (card_to_be_loaded.state != "Owned"){
         img.style.filter = "grayscale(100%)";
@@ -178,7 +166,6 @@ async function loadCard(card_to_be_loaded, onCardClick){
 
     a.appendChild(img)
             
-            // A linket (benne a képpel) a TARTALOMHOZ adjuk hozzá
     cardContent.appendChild(a)
     if (chosenState == "Owned"){
         const q = document.createElement('span')
@@ -191,13 +178,10 @@ async function loadCard(card_to_be_loaded, onCardClick){
     const span = document.createElement('span')
     span.innerText = fractions_map[card_to_be_loaded.fraction]
     span.classList.add('faction-badge')
-    // Span hozzáadása a TARTALOMHOZ
     cardContent.appendChild(span)
-
-    // Végül: a kész tartalom dobozt hozzáadjuk a kártyához
+    
     card.appendChild(cardContent)
 
-    // Kártyát hozzáadjuk a konténerhez
     container.appendChild(card)
 }
 
@@ -257,13 +241,11 @@ async function init(){
     await fillSideList()
     await listExistingTeams()
     
-    // Kezdeti állapot beállítása betöltéskor
     updateUI(parseInt(minRange.value), parseInt(maxRange.value));
 
-    // Listenerek hozzáadása
     minRange.addEventListener('input', handleRangeInput);
     maxRange.addEventListener('input', handleRangeInput);
-    minInput.addEventListener('change', handleNumberInput); // 'change', hogy csak befejezett gépelés után frissítsen
+    minInput.addEventListener('change', handleNumberInput);
     maxInput.addEventListener('change', handleNumberInput);
     minRange.addEventListener('change', handleRangeChange);
     maxRange.addEventListener('change', handleRangeChange);
@@ -338,11 +320,9 @@ async function fillSideList(){
     fraction_list.innerHTML = ''
 
 
-    // --- FRAKCIÓK (FRACTIONS) ---
     for (let i = 0; i < fractions.length; i++) {
         const element = document.createElement('li');
         
-        // Ha a frakció megegyezik a jelenleg kiválasztottal, kapja meg az active osztályt generáláskor
         if (fractions[i] === chosenFraction) {
             element.classList.add('active');
         }
@@ -352,16 +332,13 @@ async function fillSideList(){
         a.href = '#'
         
         element.addEventListener('click', (event) => {
-            event.preventDefault(); // Megakadályozza az ugrálást
+            event.preventDefault(); 
             
-            // 1. Végigmegyünk az összes frakció menüponton, és levesszük róluk az 'active' osztályt
             const allItems = fraction_list.querySelectorAll('li');
             allItems.forEach(item => item.classList.remove('active'));
             
-            // 2. Ráadjuk az 'active' osztályt a kattintott elemre
             element.classList.add('active');
 
-            // A te eredeti logikád
             chosenFraction = fractions[i]
             console.log(chosenFraction)
             loadCardsByState()
@@ -370,10 +347,8 @@ async function fillSideList(){
         element.appendChild(a)
         fraction_list.appendChild(element)
     }
-    // --- FRAKCIÓK (FRACTIONS) ---
     for (let i = 0; i < skills.length; i++) {
         const element = document.createElement('li');
-        // Ha a frakció megegyezik a jelenleg kiválasztottal, kapja meg az active osztályt generáláskor
         if (skills[i] === chosenRarity) {
             element.classList.add('active');
         }
@@ -383,9 +358,8 @@ async function fillSideList(){
         a.href = '#'
         
         element.addEventListener('click', (event) => {
-            event.preventDefault(); // Megakadályozza az ugrálást
+            event.preventDefault(); 
             
-            // 2. Ráadjuk az 'active' osztályt a kattintott elemre
             if(element.classList.contains('skill-include')){
                 const index = chosen_skills.indexOf(skills[i])
                 chosen_skills.splice(index, 1)
@@ -523,15 +497,11 @@ function filterSkills() {
     
     const searchValue = searchInput.value.toLowerCase();
     skill_elements.forEach(skill => {
-        // A textContent kiolvassa az <li> és a benne lévő <a> szövegét is
         const skillName = skill.textContent.toLowerCase();
         
         if (skillName.includes(searchValue)) {
-            // Ha van egyezés, üres stringet adunk át. 
-            // Ez visszaállítja az <li> eredeti "list-item" display értékét.
             skill.style.display = ""; 
         } else {
-            // Ha nincs egyezés, elrejtjük
             skill.style.display = "none";
         }
     });
@@ -750,17 +720,13 @@ async function changePointCriteria(p) {
     point_span.innerText = p.value
 }
 
-    // Frissíti a kék sávot és a buborékok pozícióját/szövegét
 function updateUI(minVal, maxVal) {
-        // Százalékos pozíciók kiszámítása
         const minPercent = (minVal / sliderMax) * 100;
         const maxPercent = (maxVal / sliderMax) * 100;
 
-        // Kék sáv (progress) szélességének és pozíciójának beállítása
         sliderProgress.style.left = minPercent + "%";
         sliderProgress.style.right = (100 - maxPercent) + "%";
 
-        // Buborékok frissítése
         minBubble.style.left = minPercent + "%";
         minBubble.innerText = minVal;
         
@@ -768,12 +734,10 @@ function updateUI(minVal, maxVal) {
         maxBubble.innerText = maxVal;
     }
 
-    // Eseménykezelő a csúszkákhoz
 function handleRangeInput(e) {
         let minVal = parseInt(minRange.value);
         let maxVal = parseInt(maxRange.value);
 
-        // Megakadályozzuk, hogy a két csúszka átlépje egymást
         if (maxVal - minVal < priceGap) {
             if (e.target.id === "min-range") {
                 minRange.value = maxVal - priceGap;
@@ -784,7 +748,6 @@ function handleRangeInput(e) {
             }
         }
 
-        // Számmezők szinkronizálása
         minInput.value = minVal;
         maxInput.value = maxVal;
         
@@ -795,26 +758,21 @@ async function handleRangeChange(e) {
         let minVal = parseInt(minRange.value);
         let maxVal = parseInt(maxRange.value);
         
-        // Hívjuk a kártyákat betöltő logikádat
         await applyPointFilter(minVal, maxVal);
     }
     
-    // Eseménykezelő a szám beviteli mezőkhöz
 async function handleNumberInput(e) {
         let minVal = parseInt(minInput.value) || 0;
         let maxVal = parseInt(maxInput.value) || 0;
 
-        // Értékek határok között tartása és átfedés ellenőrzése
         if (maxVal - minVal >= priceGap && maxVal <= sliderMax && minVal >= 0) {
             if (e.target.id === "min-input") {
                 minRange.value = minVal;
             } else {
                 maxRange.value = maxVal;
             }
-            updateUI(minVal, maxVal); // UI frissítése
+            updateUI(minVal, maxVal); 
             
-            // Itt egyből tölthetjük a kártyákat, mert a számmező "change" eseménye
-            // eleve csak akkor fut le, ha kikattint a mezőből vagy entert üt
             await applyPointFilter(minVal, maxVal); 
         }
     }

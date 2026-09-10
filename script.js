@@ -1,4 +1,4 @@
-const URL = 'http://localhost:3001'
+const URL = 'http://192.168.1.101:3001'
 const modalContent = document.getElementById('modalContent');
 let chosenState = "Missing";
 const modal = document.getElementById('myModal');
@@ -105,7 +105,7 @@ async function loadCard(card_to_be_loaded, onCardClick){
     cardBg.classList.add('card-bg')
     
     if (card_to_be_loaded.rarity == 'Common'){
-        cardBg.src = 'figure_backgrounds/common.png' // Módosítsd, ha más a fájlnév!
+        cardBg.src = 'figure_backgrounds/common.png'
     }
     else if(card_to_be_loaded.rarity == 'Uncommon'){
         cardBg.src = 'figure_backgrounds/uncommon.png'
@@ -126,15 +126,13 @@ async function loadCard(card_to_be_loaded, onCardClick){
     const cardContent = document.createElement('div')
     cardContent.classList.add('card-content')
 
-            // --- BAL FELSŐ SAROK: Kedvenc gomb ---
     const fav_button = document.createElement('button')
     fav_button.classList.add('fav-btn')
-    fav_button.innerHTML = '⭐' // Itt használhatsz FontAwesome ikont is, pl. '<i class="fas fa-heart"></i>'
+    fav_button.innerHTML = '⭐' 
     fav_button.title = "Hozzáadás a kedvencekhez"
     fav_button.onclick = () => addCharToFavorites(card_to_be_loaded.id)
     cardContent.appendChild(fav_button)
 
-            // --- JOBB FELSŐ SAROK: Pontszám ---
     const point = document.createElement('div')
     if(card_to_be_loaded.state == 'Owned'){
         const badge_container = document.createElement('div')
@@ -157,11 +155,6 @@ async function loadCard(card_to_be_loaded, onCardClick){
         cardContent.appendChild(point)
     }
     
-    
-    
-    
-
-            // --- KÖZÉPSŐ TARTALOM: Név és Ritkaság ---
     const name = document.createElement('p')
     name.classList.add('char-name')
     name.textContent = card_to_be_loaded.name
@@ -172,7 +165,6 @@ async function loadCard(card_to_be_loaded, onCardClick){
     rarity.textContent = card_to_be_loaded.rarity
     cardContent.appendChild(rarity)
 
-            // Link / Modal beállítása
     const a = document.createElement('a');
     a.href = '#';
 
@@ -181,26 +173,21 @@ async function loadCard(card_to_be_loaded, onCardClick){
                 onCardClick(card_to_be_loaded)
             });
 
-            // Figura képe
     const img = document.createElement('img')
     img.src = card_to_be_loaded.figure_img
-    img.classList.add('figure-img') // FONTOS: Megkapja a CSS osztályt!
+    img.classList.add('figure-img')
 
     a.appendChild(img)
             
-            // A linket (benne a képpel) a TARTALOMHOZ adjuk hozzá
     cardContent.appendChild(a)
 
     const span = document.createElement('span')
     span.innerText = fractions_map[card_to_be_loaded.fraction]
     span.classList.add('faction-badge')
-    // Span hozzáadása a TARTALOMHOZ
     cardContent.appendChild(span)
 
-    // Végül: a kész tartalom dobozt hozzáadjuk a kártyához
     card.appendChild(cardContent)
 
-    // Kártyát hozzáadjuk a konténerhez
     container.appendChild(card)
 }
 
@@ -291,11 +278,9 @@ async function updateCollectionAll(addition) {
 async function updateCollection(collection, addition) {
     const id = set_ids[collection];
 
-    // 1. Lekérjük az aktuális elemet, hogy megtudjuk a pontos 'owned' értéket
     const response = await fetch(`${URL}/collections_data/${id}`);
     const data = await response.json();
     
-    // 2. Megnöveljük a lekért értéket 1-gyel
     let newOwned;
     if (addition){
         console.log("összeadás")
@@ -306,7 +291,6 @@ async function updateCollection(collection, addition) {
         newOwned = data.owned - 1;
     }
 
-    // 3. Elküldjük a frissítést a PATCH kéréssel
     await fetch(`${URL}/collections_data/${id}`, {
         method: 'PATCH',
         headers: {
@@ -320,13 +304,11 @@ async function updateCollection(collection, addition) {
 }
 
 async function changeQuantityAdd(buttonElement, figure_id) {
-  // A gomb melletti input mező megkeresése
   const inputElement = buttonElement.parentElement.querySelector('.qty-input');
   
   let newQuantity = Number(inputElement.value) + 1;
-  inputElement.value = newQuantity; // Képernyő frissítése
+  inputElement.value = newQuantity;
 
-  // Szerver frissítése
   await fetch(`${URL}/cards/${figure_id}`, {
     method: 'PATCH',
     headers: { 'Content-Type': 'application/json' },
@@ -337,13 +319,11 @@ async function changeQuantityAdd(buttonElement, figure_id) {
 async function updateQuantityInput(inputElement, figure_id) {
   let newQuantity = Number(inputElement.value);
 
-  // Megakadályozzuk a negatív számokat
   if (newQuantity < 0 || isNaN(newQuantity)) {
     newQuantity = 0;
     inputElement.value = 0;
   }
 
-  // Szerver frissítése a kézzel beírt számmal
   await fetch(`${URL}/cards/${figure_id}`, {
     method: 'PATCH',
     headers: { 'Content-Type': 'application/json' },
@@ -352,13 +332,11 @@ async function updateQuantityInput(inputElement, figure_id) {
 }
 
 async function changeQuantitySubtract(buttonElement, figure_id) {
-  // A gomb melletti input mező megkeresése
   const inputElement = buttonElement.parentElement.querySelector('.qty-input');
   
   let newQuantity = Number(inputElement.value) - 1;
-  inputElement.value = newQuantity; // Képernyő frissítése
+  inputElement.value = newQuantity; 
 
-  // Szerver frissítése
   await fetch(`${URL}/cards/${figure_id}`, {
     method: 'PATCH',
     headers: { 'Content-Type': 'application/json' },
@@ -675,15 +653,12 @@ async function addCharToTeam(id, team_name) {
 }
 
 function setActiveTab(clickedElement) {
-    // 1. Megkeressük azt az elemet, amin épp rajta van az 'active' class
     const currentActive = document.querySelector('.nav-item.active');
     
-    // 2. Ha találtunk ilyet, levesszük róla az osztályt
     if (currentActive) {
         currentActive.classList.remove('active');
     }
     
-    // 3. Rátesszük az 'active' classt arra az elemre, amire most kattintottunk
     clickedElement.classList.add('active');
 }
 
@@ -699,11 +674,9 @@ async function fillSideList(statistics){
     set_list.innerHTML = ''
     fraction_list.innerHTML = ''
 
-    // --- KIEGÉSZÍTŐK (SETS) ---
     for (let i = 0; i < sets.length; i++) {
         const element = document.createElement('li');
         
-        // Ha a kategória megegyezik a jelenleg kiválasztottal, kapja meg az active osztályt generáláskor
         if (sets[i] === chosenSet) {
             element.classList.add('active');
         }
@@ -713,16 +686,13 @@ async function fillSideList(statistics){
         a.href = '#'
         
         element.addEventListener('click', (event) => {
-            event.preventDefault(); // Megakadályozza, hogy a '#' miatt az oldal tetejére ugorjon a nézet
+            event.preventDefault();
             
-            // 1. Végigmegyünk az összes kiegészítő menüponton, és levesszük róluk az 'active' osztályt
             const allItems = set_list.querySelectorAll('li');
             allItems.forEach(item => item.classList.remove('active'));
             
-            // 2. Ráadjuk az 'active' osztályt a kattintott elemre
             element.classList.add('active');
 
-            // A te eredeti logikád
             chosenSet = sets[i]
             const currentActive = document.querySelector('.nav-item.active');
             loadCardsByState(chosenState, currentActive)
@@ -732,11 +702,9 @@ async function fillSideList(statistics){
         set_list.appendChild(element)
     }
 
-    // --- FRAKCIÓK (FRACTIONS) ---
     for (let i = 0; i < fractions.length; i++) {
         const element = document.createElement('li');
         
-        // Ha a frakció megegyezik a jelenleg kiválasztottal, kapja meg az active osztályt generáláskor
         if (fractions[i] === chosenFraction) {
             element.classList.add('active');
         }
@@ -746,16 +714,13 @@ async function fillSideList(statistics){
         a.href = '#'
         
         element.addEventListener('click', (event) => {
-            event.preventDefault(); // Megakadályozza az ugrálást
+            event.preventDefault(); 
             
-            // 1. Végigmegyünk az összes frakció menüponton, és levesszük róluk az 'active' osztályt
             const allItems = fraction_list.querySelectorAll('li');
             allItems.forEach(item => item.classList.remove('active'));
             
-            // 2. Ráadjuk az 'active' osztályt a kattintott elemre
             element.classList.add('active');
 
-            // A te eredeti logikád
             chosenFraction = fractions[i]
 
             const currentActive = document.querySelector('.nav-item.active');
@@ -765,10 +730,8 @@ async function fillSideList(statistics){
         element.appendChild(a)
         fraction_list.appendChild(element)
     }
-    // --- FRAKCIÓK (FRACTIONS) ---
     for (let i = 0; i < rarities.length; i++) {
         const element = document.createElement('li');
-        // Ha a frakció megegyezik a jelenleg kiválasztottal, kapja meg az active osztályt generáláskor
         if (rarities[i] === chosenRarity) {
             element.classList.add('active');
         }
@@ -784,16 +747,13 @@ async function fillSideList(statistics){
         a.href = '#'
         
         element.addEventListener('click', (event) => {
-            event.preventDefault(); // Megakadályozza az ugrálást
+            event.preventDefault();
             
-            // 1. Végigmegyünk az összes frakció menüponton, és levesszük róluk az 'active' osztályt
             const allItems = rarity_list.querySelectorAll('li');
             allItems.forEach(item => item.classList.remove('active'));
             
-            // 2. Ráadjuk az 'active' osztályt a kattintott elemre
             element.classList.add('active');
 
-            // A te eredeti logikád
             chosenRarity = rarities[i]
 
             const currentActive = document.querySelector('.nav-item.active');
@@ -832,30 +792,24 @@ function chooseProfileZoli(){
 
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Adatok kiolvasása
     const savedProfile = sessionStorage.getItem('chosenProfile');
     const isLoggedIn = sessionStorage.getItem('loggedIn') === 'true';
 });
 
 function sortCharsByDateDesc() {
     characters.sort((a, b) => {
-        // 1. Ha mindkettő "not_owned", maradjanak egy helyen (EZ HIÁNYZOTT!)
         if (a.date_of_addition === "not_owned" && b.date_of_addition === "not_owned") {
             return 0;
         }
         
-        // 2. Ha csak az 'a' a "not_owned", takarodjon a tömb végére
         if (a.date_of_addition === "not_owned") {
             return 1;
         }
         
-        // 3. Ha csak a 'b' a "not_owned", akkor ő takarodjon a végére
         if (b.date_of_addition === "not_owned") {
             return -1;
         }
         
-        // 4. Ha mindkettőnek van dátuma, csökkenő (legújabb legelöl) sorrendbe rakjuk
-        // A Date objektum a legbiztosabb megoldás a dátumok összehasonlítására
         return new Date(b.date_of_addition) - new Date(a.date_of_addition);
     });
     
