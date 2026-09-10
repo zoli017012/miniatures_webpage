@@ -8,13 +8,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Star Wars Miniatures Gyűjtemény</title>
     <link rel="stylesheet" href="style.css">
-    <!-- Star Wars hangulatú betűtípus a Google Fonts-ról -->
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body onload="init()">
 
-    <!-- Fejléc (Header) -->
     <header class="top-navbar">
         <div class="logo-area">
             <span class="holo-icon" id="kör">⬤</span>
@@ -25,7 +23,6 @@
             <span id="total-quantity-span"></span>
         </div>
 
-        <!-- Szűrő gombok -->
 
         <ul class="nav-links">
             <li>
@@ -79,9 +76,7 @@
 
     
 
-    <!-- Fő elrendezés: Oldalsáv + Tartalom -->
     <div class="app-container">
-        <!-- Oldalsáv (Sidebar) -->
         <nav class="sci-fi-sidebar">
             
             <div class="filter-section">
@@ -114,7 +109,6 @@
             </ul>
         </nav>
 
-        <!-- Fő tartalom: A kártyák hálója -->
         <main class="main-content">
             <video class="bg-video" autoplay loop muted playsinline src="backgrounds//test.mp4" type="video/mp4">
             </video>
@@ -128,7 +122,6 @@
         </main>
     </div>
 
-    <!-- Modális ablak -->
     <dialog id="myModal">
         <div id="modalContent"></div>
     </dialog>

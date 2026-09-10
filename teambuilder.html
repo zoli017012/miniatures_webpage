@@ -5,14 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Star Wars Miniatures Gyűjtemény</title>
     <link rel="stylesheet" href="style.css">
-    <!-- Star Wars hangulatú betűtípus a Google Fonts-ról -->
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 </head>
 <body onload="init()">
 
-    <!-- Fejléc (Header) -->
     <header class="top-navbar">
         <div class="logo-area">
             <span class="holo-icon" id="kör">⬤</span>
@@ -22,7 +20,6 @@
             <h1>MINIATURE <span>CSAPATÉPÍTŐ</span></h1>
         </div>
 
-        <!-- Szűrő gombok -->
          <ul class="nav-links">
             <li>
             <a href="index.html" class="nav-item" onclick="loadCardsByState('Missing', this)">
@@ -75,7 +72,6 @@
         
 
 
-        <!-- Keresőmező -->
         <div class="search-box">
             <input type="text" id="searchInput" placeholder="Kártya keresése..." onkeyup="filterCards()">
             <span class="search-icon">🔍</span>
@@ -84,12 +80,9 @@
 
     
 
-    <!-- Fő elrendezés: Oldalsáv + Tartalom -->
     <div class="app-container">
-        <!-- Oldalsáv (Sidebar) -->
         <nav class="sci-fi-sidebar">
             
-            <!-- RENDEZÉS SZERINT -->
             <div class="filter-section">
                 <div class="sidebar-header">
                     Rendezés szerint
@@ -122,7 +115,7 @@
                 <div class="filter-section">
                     <div class="accordion-header">
                         <span class="accordion-title">Pontszám Tartomány</span>
-                        <span class="accordion-icon">&#9650;</span> <!-- Felfelé mutató nyíl ikon -->
+                        <span class="accordion-icon">&#9650;</span>
                     </div>
                     
                     <div class="range-container">
@@ -160,7 +153,6 @@
             
         </nav>
 
-        <!-- Fő tartalom: A kártyák hálója -->
         <main class="main-content">
             <div class="scroll-area">
                 <div id="card-container">
@@ -172,7 +164,6 @@
         </main>
     </div>
 
-    <!-- Modális ablak -->
     <dialog id="myModal">
         <div id="modalContent"></div>
     </dialog>
