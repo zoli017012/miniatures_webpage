@@ -1,0 +1,1280 @@
+/* --- STAR WARS / HOLOCRON DARK THEME --- */
+
+:root {
+    --bg-dark: #0b0e14;
+    --bg-card: #151a23;
+    --bg-sidebar: #10141d;
+    --border-color: #2a3447;
+    --primary-cyan: #00f0ff;
+    --primary-yellow: #ffe81f; /* Star Wars sárga */
+    --text-main: #e2e8f0;
+    --text-muted: #8a99ad;
+}
+
+body {
+    font-family: 'Rajdhani', sans-serif;
+    background-color: var(--bg-dark);
+    color: var(--text-main);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* --- FEJLÉC (HEADER) --- */
+.app-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    
+    /* Sötét fémes színátmenet */
+    background: linear-gradient(180deg, #101820 0%, #1a252f 100%);
+    
+    /* Alsó világító szegély és dupla árnyék */
+    border-bottom: 2px solid #5a7b8c;
+    box-shadow: 
+        0 4px 15px rgba(0, 0, 0, 0.8), 
+        inset 0 -2px 10px rgba(90, 123, 140, 0.3);
+        
+    font-family: 'Arial', sans-serif; /* Ha van sci-fi betűtípusod, ide tedd! */
+    color: #b0c4de;
+}
+
+/* =========================================
+   BAL OLDAL: LOGÓ TERÜLET
+   ========================================= */
+.logo-area {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+/* A kis holo-ikon ragyogása */
+.holo-icon {
+    color: #48d1cc;
+    font-size: 2rem; /* Vagy amekkora méretet beállítottál */
+    text-shadow: 0 0 12px rgba(72, 209, 204, 0.8);
+    animation: pulse 2s infinite; 
+    
+    /* Ezeket add hozzá a tökéletes egy vonalba igazításhoz: */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1; /* Kiveszi a karakterek körüli láthatatlan, aszimmetrikus "dobozt" */
+}
+
+#kör{
+    font-size: 1.7rem;
+}
+
+#rombusz{
+    font-size: 2.1rem;
+}
+
+/* Főcím stílusa */
+.logo-area h1 {
+    margin: 0;
+    font-size: 1.4rem;
+    color: #e0ffff;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* A "GYŰJTEMÉNY" szó eltérő színe (mint a képeden) */
+.logo-area h1 span {
+    color: #8ab4f8;
+    font-weight: normal;
+}
+
+.nav-buttons {
+    display: flex;
+    gap: 15px;
+}
+
+.sw-btn {
+    background: linear-gradient(180deg, #2a3b4a 0%, #1a252f 100%);
+    border: 1px solid #5a7b8c;
+    color: #cfd9e1;
+    padding: 8px 25px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border-radius: 4px; /* Kicsi kerekítés a fémes hatásért */
+    
+    /* Belső sötétítő árnyék és külső vetett árnyék */
+    box-shadow: inset 0 2px 5px rgba(255,255,255,0.05), 0 2px 5px rgba(0,0,0,0.5);
+    transition: all 0.3s ease;
+}
+
+/* Gomb Hover (Rámutatás) - Felvillanó neon hatás */
+.sw-btn:hover {
+    background: rgba(72, 209, 204, 0.15);
+    border-color: #48d1cc;
+    color: #ffffff;
+    box-shadow: 
+        0 0 15px rgba(72, 209, 204, 0.4), 
+        inset 0 0 10px rgba(72, 209, 204, 0.2);
+}
+
+/* Gomb Kattintás (Aktív állapot) */
+.sw-btn:active {
+    transform: scale(0.96);
+}
+
+/* Keresőmező */
+.search-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-box input {
+    background: rgba(0, 0, 0, 0.6);
+    border: 1px solid #5a7b8c;
+    color: #e0ffff;
+    padding: 10px 35px 10px 15px; /* Jobb oldalon helyet hagyunk az ikonnak */
+    font-size: 0.9rem;
+    border-radius: 20px; /* Szép kapszula forma */
+    outline: none;
+    width: 200px;
+    transition: all 0.3s ease;
+    box-shadow: inset 0 0 8px rgba(0,0,0,0.8);
+}
+
+/* Amikor belekattintasz a keresőbe */
+.search-box input:focus {
+    border-color: #48d1cc;
+    width: 250px; /* Kicsit kinyílik */
+    box-shadow: 
+        0 0 12px rgba(72, 209, 204, 0.3), 
+        inset 0 0 8px rgba(0,0,0,0.8);
+}
+
+/* A Placeholder (szürke tipp szöveg) színe */
+.search-box input::placeholder {
+    color: #5a7b8c;
+}
+
+/* A nagyító ikon pozicionálása a mezőben */
+.search-icon {
+    position: absolute;
+    right: 12px;
+    font-size: 1.1rem;
+    color: #5a7b8c;
+    pointer-events: none; /* Ne akadályozza a kattintást a mezőben */
+}
+@keyframes pulse {
+    0% { opacity: 0.7; text-shadow: 0 0 8px rgba(72, 209, 204, 0.5); }
+    50% { opacity: 1; text-shadow: 0 0 18px rgba(72, 209, 204, 1); }
+    100% { opacity: 0.7; text-shadow: 0 0 8px rgba(72, 209, 204, 0.5); }
+}
+/* --- FŐ ELRENDEZÉS (APP CONTAINER) --- */
+.app-container {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+}
+
+/* OLDALSÁV (SIDEBAR) */
+.app-sidebar {
+    width: 240px;
+    background-color: var(--bg-sidebar);
+    border-right: 1px solid var(--border-color);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* 'space-between' helyett ez a jobb, ha sok a tartalom */
+    
+    /* EZ A KULCS: Engedélyezi a függőleges görgetést, ha nem fér ki a tartalom */
+    overflow-y: auto; 
+}
+
+.app-sidebar::-webkit-scrollbar {
+    width: 6px; /* Nagyon vékony, elegáns görgetősáv */
+}
+
+.app-sidebar::-webkit-scrollbar-track {
+    background: var(--bg-sidebar); /* A sáv háttere beleolvad az oldalsávba */
+}
+
+.app-sidebar::-webkit-scrollbar-thumb {
+    background-color: var(--border-color); /* Alapértelmezetten sötétkék/szürke */
+    border-radius: 10px;
+}
+
+.app-sidebar::-webkit-scrollbar-thumb:hover {
+    background-color: var(--primary-cyan); /* Ha ráviszed az egeret, felvillan ciánkékre! */
+}
+
+.sidebar-section {
+    margin-bottom: 25px;
+}
+
+.sidebar-section h3 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    letter-spacing: 1.5px;
+    margin-bottom: 12px;
+}
+
+.sidebar-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-section li a {
+    color: var(--text-main);
+    text-decoration: none;
+    display: block;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: background 0.2s;
+}
+
+.sidebar-section li.active a,
+.sidebar-section li a:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: var(--primary-cyan);
+}
+
+/* Ritkaság címkék az oldalsávban */
+.rarity-tags {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.tag {
+    font-size: 0.85rem;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.tag-common { color: rgb(0, 255, 0); background: rgba(0, 255, 0, 0.1); }
+.tag-uncommon { color: rgb(0, 174, 255); background: rgba(0, 174, 255, 0.1); }
+.tag-rare { color: rgb(255, 0, 0); background: rgba(255, 0, 0, 0.1); }
+.tag-veryrare { color: rgb(238, 255, 0); background: rgba(238, 255, 0, 0.1); }
+
+.sidebar-footer {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    border-top: 1px solid var(--border-color);
+    padding-top: 15px;
+}
+
+.online-status {
+    color: #10b981;
+    font-weight: bold;
+}
+
+/* FŐ TARTALMI TERÜLET (MAIN CONTENT) */
+.main-content {
+    flex: 1;
+    padding: 25px;
+    overflow-y: auto;
+    background-image: url(background.jpg);
+}
+
+/* --- KÁRTYÁK ELRENDEZÉSE --- */
+#card-container {
+    display: grid;
+    /* Ez a varázssor tökéletes, marad így! */
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 20px;
+    width: 100%;
+}
+/* Fő konténer, ami mindent középre rendez egymás alá */
+
+
+#maps-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    width: 100%;
+}
+
+/* KÁRTYA ALAPJA (RÁCS) */
+.card {
+    display: grid; 
+    border-radius: 25px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    overflow: hidden; 
+    border: 3px solid #949494;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 25px rgba(0, 240, 255, 0.2);
+}
+
+/* EGYMÁSRA HELYEZÉS (GRID TRÜKK) */
+.card > .card-bg,
+.card > .card-content {
+    grid-area: 1 / 1; 
+}
+
+/* HÁTTÉRKÉP BEÁLLÍTÁSA */
+.card-bg {
+    width: 100%;
+    height: auto; /* EZ A KULCS: Így a kép megtartja a saját eredeti arányát, és akkorára nyitja a kártyát, amekkora a kép valójában! */
+    display: block;
+    /* Az object-fit: cover; innen kivehető, mert a height: auto miatt már nem lesz rá szükség */
+}
+
+/* TARTALOM (Szövegek és a figura tartója) */
+.card-content {
+    grid-area: 1 / 1;
+    z-index: 1;
+    padding: 10px 15px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    position: relative; /* EZ FONTOS: Ez kell az abszolút pozícionáláshoz! */
+}
+
+.fav-btn {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background: rgba(0, 0, 0, 0.5); /* Enyhén átlátszó sötét háttér */
+    border: 2px solid #ffd700; /* Arany szegély */
+    color: #ffd700;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: all 0.2s ease;
+    z-index: 10;
+    padding: 0;
+    line-height: 1;
+    padding-top: 1px; /* Sokszor ez a kis plusz igazítja optikailag középre a csillagot */
+}
+
+.fav-btn:hover {
+    transform: scale(1.1);
+    background: #ffd700;
+    color: #000;
+}
+
+/* --- PONTSZÁM (Jobb felső sarok) --- */
+.point-badge {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    border: 2px solid #949494; /* A téma színéhez (neon kék) illeszkedő szegély */
+    border-radius: 5px;
+    padding: 3px 8px;
+    font-weight: bold;
+    font-size: 1rem;
+    z-index: 10;
+}
+
+.faction-badge {
+    position: absolute;
+    bottom: 1px;
+    right: 60px;
+    width: 150px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    border: 2px solid #949494;
+    border-radius: 5px;
+    padding: 3px 8px;
+    font-weight: bold;
+    font-size: 1rem;
+    z-index: 10;
+}
+
+/* --- BELSŐ ELEMEK (Név és Ritkaság dedikált osztállyal) --- */
+.char-name {
+    position: absolute; /* KIVESSZÜK a térből, így garantáltan nem tol el semmit! */
+    top: 50px; /* Fentről való távolság - finomhangolhatod, ha feljebb/lejjebb akarod */
+    left: 50px; /* Helykihagyás a csillagnak */
+    right: 50px; /* Helykihagyás a pontszámnak */
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: var(--text-main);
+    margin: 0;
+    text-align: center;
+    line-height: 1.1;
+    z-index: 5;
+    /* A korábbi transform: translateY, height, padding innen mind törölhető! */
+}
+
+.char-rarity {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0;
+    
+    /* FIX POZÍCIÓ A NÉV NÉLKÜL: */
+    margin-top: 95px; /* Ezt az értéket állítsd be úgy, hogy pontosan a sötét sávba essen a szöveg! (Lehet, hogy 65px vagy 75px lesz a tökéletes) */
+    margin-bottom: auto; /* Ez a varázssor továbbra is a helyén tartja a képet alattuk */
+    
+    /* A KORÁBBI transform: translateY(...) BEÁLLÍTÁST FELTÉTLENÜL TÖRÖLD! */
+}
+
+.card-content a {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    
+    /* EZ TARTJA A KÉPET A HELYÉN: 
+       Fix üres helyet hagyunk a kártya tetejétől lefelé a fém keretig. 
+       Ha a kép túl fent vagy lent van a keretben, csak ezt a számot (100px) módosítsd! */
+    margin-top: -80px; 
+    margin-bottom: auto; /* Ez továbbra is felfelé tolja az alsó sávhoz képest */
+}
+
+/* BELSŐ ELEMEK (Szövegek) */
+.card-content p:nth-child(1) {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin: 0;
+    color: var(--text-main);
+    
+    /* MANUÁLIS TOLOGATÁS (fel-le, és ha kell balra-jobbra) */
+    /* translateY: negatív = fel, pozitív = le */
+    /* translateX: negatív = balra, pozitív = jobbra */
+    transform: translateY(35px); 
+}
+
+.card-content p:nth-child(2) {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0;
+    
+    /* EZ FONTOS: Ez mondja meg a Flexboxnak, hogy a Ritkaság maradjon 
+       a Név alatt, és az összes üres helyet maga ALATT tolja el! */
+    margin-bottom: auto; 
+    
+    /* MANUÁLIS TOLOGATÁS */
+    transform: translateY(73px); 
+}
+
+.card-content span {
+    font-size: 0.9rem; /* Ha eddig nem volt méretezetve, érdemes */
+    margin: 0;
+    
+    /* MANUÁLIS TOLOGATÁS */
+    transform: translateY(-20px); /* A negatív érték picit feljebb húzza, hogy jól mutasson az alsó sávban */
+    line-height: 30px;
+}
+
+.skill-include{
+    /* Szürkés-kékes, áttetsző háttér */
+    background-color: rgba(70, 130, 180, 0.3); 
+    
+    /* Világosabb, élénkebb betűszín */
+    color: #e0ffff; 
+    
+    /* Ez adja a bal oldali vastag, világító szegélyt */
+    border-left: 4px solid #48d1cc; 
+    
+    /* Felül-alul sötétebb keret (mint a képen az "Összes" alatt és felett) */
+    border-top: 1px solid #101c24;
+    border-bottom: 1px solid #101c24;
+    
+    /* Szöveg ragyogása */
+    text-shadow: 0 0 8px rgba(72, 209, 204, 0.6);
+    
+    /* Belső árnyék, ami mélységet ad neki */
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.skill-exclude{
+    /* Szürkés-kékes, áttetsző háttér */
+    background-color: rgba(255, 65, 90, 0.3); 
+    
+    /* Világosabb, élénkebb betűszín */
+    color: #e0ffff; 
+    
+    /* Ez adja a bal oldali vastag, világító szegélyt */
+    border-left: 4px solid #48d1cc; 
+    
+    /* Felül-alul sötétebb keret (mint a képen az "Összes" alatt és felett) */
+    border-top: 1px solid #101c24;
+    border-bottom: 1px solid #101c24;
+    
+    /* Szöveg ragyogása */
+    text-shadow: 0 0 8px rgba(72, 209, 204, 0.6);
+    
+    /* Belső árnyék, ami mélységet ad neki */
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+#point_stat{
+    visibility: hidden;
+}
+/* A TÉNYLEGES FIGURA KÉPE */
+.figure-img {
+    width: 100%;
+    max-height: 200px; /* Sima height helyett max-height, így tud alkalmazkodni */
+    object-fit: contain; 
+    transition: opacity 0.2s ease;
+    transform: translateY(-5px);
+}
+
+.figure-img:hover {
+    opacity: 0.8;
+}
+
+
+/* --- Modális ablak (Dialog) stílusai --- */
+dialog {
+    border: none;
+    border-radius: 12px;
+    padding: 0;
+    background: transparent; /* Hogy csak a kép látsszon, ha nincs fehér háttér a modalContent-en */
+    box-shadow: 0 15px 50px rgba(0,0,0,0.5);
+    max-width: 120vw;
+    max-height: 120vh;
+}
+
+/* A modal mögötti sötétített háttér */
+dialog::backdrop {
+    background-color: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(3px);
+}
+
+#modalContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#modalContent img {
+    max-height: 85vh; /* Ne lógjon ki a képernyőről */
+    object-fit: contain;
+}
+
+/* Modal belső kártya konténer */
+.modal-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.modal-map {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+/* Kártya képe */
+.card-img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  object-fit: cover;
+}
+
+/* Vezérlők konténere a kép alatt */
+.card-controls {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+/* Egy-egy beviteli blokk (label + mező) */
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.control-group label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Állapot select lenyíló mező */
+.state-select {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  background-color: #f8fafc;
+  font-size: 0.95rem;
+  color: #1e293b;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.state-select:focus {
+  border-color: #3b82f6;
+  background-color: #fff;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+}
+
+/* Mennyiség gombok és input egy sorban */
+.quantity-control {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f1f5f9;
+  border-radius: 8px;
+  padding: 4px;
+  border: 1px solid #cbd5e1;
+}
+
+/* Léptető gombok (- / +) */
+.qty-btn {
+  width: 36px;
+  height: 36px;
+  border: none;
+  background-color: #ffffff;
+  color: #0f172a;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: all 0.15s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.qty-btn:hover {
+  background-color: #3b82f6;
+  color: #ffffff;
+}
+
+.qty-btn:active {
+  transform: scale(0.95);
+}
+
+.active{
+  color: #00f0ff;
+}
+
+/* Szám beviteli mező középen */
+.qty-input {
+  width: 60px;
+  border: none;
+  background: transparent;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #0f172a;
+  outline: none;
+}
+
+/* Eltünteti a gyári csúnya nyilakat a number inputról */
+.qty-input::-webkit-outer-spin-button,
+.qty-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.qty-input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* Animáció a logóhoz */
+@keyframes pulse {
+    0% { opacity: 0.4; }
+    50% { opacity: 1; }
+    100% { opacity: 0.4; }
+}
+
+#chosen_set_name{
+  text-align: center;
+  
+}
+
+#test-card{
+  display: flex;
+  justify-content: center; /* Horizontális (vízszintes) középre igazítás */
+  align-items: center;     /* Vertikális (függőleges) középre igazítás */
+  height: 448px;
+  width: 279px;
+  background-image: url('figure_backgrounds\\rare.png');
+}
+
+/* A teljes oldalsáv fő kerete */
+.sci-fi-sidebar {
+    width: 280px;
+    background: linear-gradient(180deg, #1a252f 0%, #0f161c 100%);
+    
+    /* A világító kékes-szürkés szegély */
+    border: 2px solid #5a7b8c;
+    
+    /* Dupla árnyék: egy belső sötétítés/ragyogás, és egy külső enyhe fény */
+    box-shadow: 
+        inset 0 0 20px rgba(0, 0, 0, 0.8), /* Belső sötétség */
+        inset 0 0 5px rgba(90, 123, 140, 0.5), /* Belső fémfény */
+        0 4px 15px rgba(0, 0, 0, 0.6); /* Külső vetett árnyék */
+        
+    padding-bottom: 20px;
+    font-family: 'Arial', sans-serif; /* Használd ide a saját sci-fi betűtípusodat! */
+    color: #b0c4de;
+    overflow: hidden; /* Hogy a belső elemek ne lógjanak le a kerekített sarkokról */
+}
+
+/* A szekciók címei (pl. ADATBÁZIS KÓDEX) */
+.sidebar-header {
+    background: linear-gradient(90deg, #2a3b4a 0%, #1a252f 100%);
+    color: #8ab4f8;
+    font-size: 0.85rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 12px 15px;
+    border-bottom: 1px solid #000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+    letter-spacing: 1px;
+}
+
+/* A menü lista alapbeállításai */
+.sidebar-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Egy sima menüpont */
+.sidebar-menu li {
+    padding: 10px 15px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #cfd9e1;
+    cursor: pointer;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05); /* Nagyon halvány elválasztóvonal */
+    transition: all 0.2s ease;
+    
+    /* Alapból van egy átlátszó bal oldali szegély, hogy hoverkor ne ugráljon a méret */
+    border-left: 4px solid transparent; 
+}
+
+/* Amikor ráviszed az egeret (Hover) */
+.sidebar-menu li:hover {
+    background-color: rgba(90, 123, 140, 0.15);
+    color: #ffffff;
+}
+
+/* A KIVÁLASZTOTT (Aktív) menüpont - Olyan, mint a képen az "Összes" */
+.sidebar-menu li.active {
+    /* Szürkés-kékes, áttetsző háttér */
+    background-color: rgba(70, 130, 180, 0.3); 
+    
+    /* Világosabb, élénkebb betűszín */
+    color: #e0ffff; 
+    
+    /* Ez adja a bal oldali vastag, világító szegélyt */
+    border-left: 4px solid #48d1cc; 
+    
+    /* Felül-alul sötétebb keret (mint a képen az "Összes" alatt és felett) */
+    border-top: 1px solid #101c24;
+    border-bottom: 1px solid #101c24;
+    
+    /* Szöveg ragyogása */
+    text-shadow: 0 0 8px rgba(72, 209, 204, 0.6);
+    
+    /* Belső árnyék, ami mélységet ad neki */
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.sidebar-menu a {
+    text-decoration: none; /* Eltünteti az aláhúzást */
+    color: inherit;        /* Átveszi a szülő (li) színét, így nem lesz lila */
+    display: block;        /* Kitölti a rendelkezésre álló helyet, így az egész sor kattintható lesz */
+}
+
+/* 1. BEKAPCSOLJUK A GÖRGETÉST A MENÜN */
+.sidebar-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+    /* Ide állítsd be, milyen magas lehessen maximum, mielőtt megjelenik a csúszka */
+    max-height: 250px; 
+    
+    /* Ez kapcsolja be a csúszkát, ha túllóg a tartalom */
+    overflow-y: auto; 
+    
+    /* Hogy Firefox alatt is jól nézzen ki (vékony csúszka, sci-fi színekkel) */
+    scrollbar-width: thin;
+    scrollbar-color: #5a7b8c rgba(0, 0, 0, 0.3);
+}
+
+/* 2. SCI-FI CSÚSZKA DIZÁJN (Chrome, Edge, Safari böngészőkhöz) */
+
+/* Maga a csúszka területe (szélesség) */
+.sidebar-menu::-webkit-scrollbar {
+    width: 6px;
+}
+
+/* A sín, amiben a csúszka mozog (sötét, áttetsző) */
+.sidebar-menu::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+}
+
+/* A mozgó pöcök (kék fém szín) */
+.sidebar-menu::-webkit-scrollbar-thumb {
+    background: #5a7b8c;
+    border-radius: 4px;
+}
+
+/* Ha ráviszed az egeret a csúszkára (felvillanó neonkék) */
+.sidebar-menu::-webkit-scrollbar-thumb:hover {
+    background: #48d1cc; 
+}
+
+/* Új globális változók a Miniature Collection stílushoz */
+:root {
+    --sw-bg-dark: #050a14; /* Sötétkék-fekete háttér */
+    --sw-panel-dark: #0e1626; /* Panel háttér (modal content) */
+    --sw-input-bg: #070e1a; /* Még sötétebb panel a beviteli mezőkhöz */
+    
+    --sw-accent-blue: #00bfff; /* Élénk kék akcentus (szűrők és fejléc szöveg) */
+    --sw-accent-blue-glow: 0 0 10px rgba(0, 191, 255, 0.8);
+    --sw-accent-blue-glow-btn: 0 0 15px rgba(0, 191, 255, 1);
+    
+    --sw-text-light: #f0f0f0; /* Világosszürke szöveg tartalomhoz */
+    --sw-border-dark: #1e2e4a; /* Sötét keret */
+    
+    --sw-button-metal: linear-gradient(180deg, #2c3e5e 0%, #1c2a41 100%); /* Fémhatású gomb alap */
+    --sw-button-metal-hover: linear-gradient(180deg, #3d567f 0%, #293f61 100%); /* Fémhatású gomb hover */
+}
+
+/* Szigorúan szeparált CSS, hogy ne hasson a globális elemekre */
+.sw-modal-form-wrapper {
+    background-color: var(--sw-bg-dark);
+    color: var(--sw-text-light);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Használjunk egy modernebb fontot */
+    padding: 2rem;
+    border-radius: 4px; /* Finom kerekítés, mint a kártyákon */
+    box-sizing: border-box;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.7); /* Modal árnyék */
+}
+
+.sw-modal-form-wrapper .sw-form-container {
+    background-color: var(--sw-panel-dark);
+    border: 1px solid var(--sw-border-dark);
+    padding: 2rem;
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position: relative;
+    /* Finom belső árnyék és káva hatás */
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Kék ragyogó fejléc */
+.sw-modal-form-wrapper .sw-form-title {
+    margin-top: 0;
+    margin-bottom: 2rem;
+    color: var(--sw-accent-blue);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-shadow: var(--sw-accent-blue-glow);
+    text-align: center;
+}
+
+.sw-modal-form-wrapper .sw-form-group {
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+/* Kék label szöveg */
+.sw-modal-form-wrapper .sw-form-label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: var(--sw-accent-blue);
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+}
+
+/* Beviteli mezők stílusa az új panelstílushoz */
+.sw-modal-form-wrapper .sw-form-input,
+.sw-modal-form-wrapper .sw-form-select {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    box-sizing: border-box;
+    background-color: var(--sw-input-bg);
+    color: var(--sw-text-light);
+    border: 1px solid var(--sw-border-dark);
+    border-radius: 2px;
+    font-size: 1rem;
+    transition: border-color 0.3s, box-shadow 0.3s;
+    font-family: inherit;
+}
+
+/* Kék fókusz effektus */
+.sw-modal-form-wrapper .sw-form-input:focus,
+.sw-modal-form-wrapper .sw-form-select:focus {
+    outline: none;
+    border-color: var(--sw-accent-blue);
+    box-shadow: var(--sw-accent-blue-glow);
+}
+
+/* Frakció select szín */
+.sw-modal-form-wrapper select option {
+    background-color: var(--sw-input-bg);
+    color: var(--sw-text-light);
+}
+
+/* Submit Button: fémhatás + kék hover */
+.sw-modal-form-wrapper .sw-form-submit-btn {
+    width: 100%;
+    padding: 1rem;
+    background: var(--sw-button-metal);
+    color: var(--sw-text-light);
+    border: 1px solid var(--sw-border-dark);
+    border-radius: 2px;
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: pointer;
+    letter-spacing: 2px;
+    transition: background 0.3s, box-shadow 0.3s, border-color 0.3s;
+    margin-top: 1rem;
+    font-family: inherit;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.sw-modal-form-wrapper .sw-form-submit-btn:hover {
+    background: var(--sw-button-metal-hover);
+    border-color: var(--sw-accent-blue);
+    box-shadow: var(--sw-accent-blue-glow-btn);
+}
+option{
+    background-color: #1a252f;
+    color: white;
+}
+
+
+#login-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 40px; /* Távolság a profilok és a gombok között */
+    font-family: 'Arial', sans-serif;
+}
+
+#login-panel {
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+    gap: 60px; /* Távolság a két kártya között */
+}
+
+/* Kártyák alap stílusa: sötét, vastag, 3D hatású */
+.login-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(145deg, #1e2228, #131519);
+    border-radius: 12px;
+    padding: 12px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    /* Alap 3D-s árnyék a vastagság érzékeltetésére */
+    box-shadow: 0 15px 25px rgba(0,0,0,0.6), 
+                inset 0px 1px 1px rgba(255,255,255,0.1);
+}
+
+/* A kék világító keret (Kibernetikus Ügynök) */
+.blue-glow {
+    border: 2px solid #38bdf8;
+    box-shadow: 0 0 20px rgba(56, 189, 248, 0.4), 0 15px 25px rgba(0,0,0,0.6);
+}
+
+/* A piros/narancs világító keret (Démon Úr) */
+.red-glow {
+    border: 2px solid #ef4444;
+    box-shadow: 0 0 20px rgba(239, 68, 68, 0.4), 0 15px 25px rgba(0,0,0,0.6);
+}
+
+/* A kép tárolója, hogy ne lógjon ki a keretből */
+.image-wrapper {
+    width: 100%;
+    height: 350px;
+    border-radius: 8px;
+    overflow: hidden;
+    /* Belső árnyék a képen, hogy beleolvadjon a sötét kártyába */
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.8);
+}
+
+a{
+    text-decoration: None;
+}
+
+.login-profile img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+/* Szöveg a kártya alján */
+.login-profile span {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 1.1rem;
+    color: #9ca3af;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: color 0.3s ease;
+}
+
+/* --- HOVER EFFEKTEK (Amikor ráhúzod az egeret) --- */
+
+/* A kártya felemelkedik */
+.login-profile:hover {
+    transform: scale(1.05) translateY(-5px);
+}
+
+/* A kép picit belenagyít (Netflix effekt) */
+.login-profile:hover img {
+    transform: scale(1.1); 
+}
+
+/* A kék kártya fénye felerősödik */
+.blue-glow:hover {
+    box-shadow: 0 0 40px rgba(56, 189, 248, 0.8), 0 20px 30px rgba(0,0,0,0.8);
+}
+.blue-glow:hover span { color: #ffffff; text-shadow: 0 0 8px #38bdf8; }
+
+/* A piros kártya fénye felerősödik */
+.red-glow:hover {
+    box-shadow: 0 0 40px rgba(239, 68, 68, 0.8), 0 20px 30px rgba(0,0,0,0.8);
+}
+.red-glow:hover span { color: #ffffff; text-shadow: 0 0 8px #ef4444; }
+
+
+.filter-section {
+        margin-bottom: 25px;
+    }
+
+    .filter-label {
+        display: block;
+        font-size: 11px;
+        font-weight: 600;
+        color: #8a9bb3;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 10px;
+    }
+
+    .custom-select {
+        width: 100%;
+        background-color: #111720;
+        color: #e2e8f0;
+        border: 1px solid #2d3b4e;
+        padding: 10px 12px;
+        font-size: 13px;
+        border-radius: 4px;
+        appearance: none; /* Alapértelmezett nyíl eltüntetése */
+        -webkit-appearance: none;
+        cursor: pointer;
+        outline: none;
+        /* Egyedi nyíl SVG-ből */
+        background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%238a9bb3' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+        background-repeat: no-repeat;
+        background-position: right 10px center;
+        background-size: 14px;
+        transition: border-color 0.2s;
+    }
+
+    .custom-select:hover, .custom-select:focus {
+        border-color: #3b82f6;
+    }
+
+    /* --- PONTSZÁM TARTOMÁNY (Harmonika fejléc) --- */
+    .accordion-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        cursor: pointer;
+        padding: 15px 0 10px 0;
+        border-top: 1px solid #2d3b4e;
+    }
+
+    .accordion-title {
+        font-size: 14px;
+        font-weight: bold;
+        color: #e2e8f0;
+    }
+
+    .accordion-icon {
+        color: #8a9bb3;
+        font-size: 14px;
+    }
+
+    /* --- CSÚSZKA ÉS MEZŐK --- */
+    .range-container {
+        padding: 10px 0;
+    }
+
+    /* Buborékok a csúszka felett (Pozíciók fixen vannak beállítva a demóhoz) */
+    .bubble-container {
+        position: relative;
+        height: 25px;
+        margin-bottom: 5px;
+    }
+    
+    .bubble {
+        position: absolute;
+        background-color: #3b82f6;
+        color: white;
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-size: 12px;
+        font-weight: bold;
+        transform: translateX(-50%);
+    }
+
+    .bubble.min-bubble { left: 16%; } /* 50 / 300 = ~16% */
+    .bubble.max-bubble { left: 66%; } /* 200 / 300 = ~66% */
+
+    /* Dupla csúszka trükk (két egymáson lévő input range) */
+    .slider-track-container {
+        position: relative;
+        height: 20px;
+        margin-bottom: 5px;
+    }
+
+    .slider-track {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 100%;
+        height: 4px;
+        background-color: #0b1016;
+        border-radius: 2px;
+    }
+
+    .slider-progress {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        height: 4px;
+        background-color: #3b82f6;
+        left: 16%; 
+        right: 33%; 
+        border-radius: 2px;
+    }
+
+    .range-input {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 100%;
+        -webkit-appearance: none;
+        appearance: none;
+        background: transparent;
+        pointer-events: none; /* Hogy mindkét gomb mozgatható legyen */
+        margin: 0;
+    }
+
+    .range-input::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        height: 16px;
+        width: 16px;
+        border-radius: 50%;
+        background-color: #3b82f6;
+        cursor: pointer;
+        pointer-events: auto; /* Csak a gomb fogadja el a kattintást */
+        box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    }
+
+    .slider-labels {
+        display: flex;
+        justify-content: space-between;
+        font-size: 11px;
+        color: #6b7a90;
+        margin-bottom: 20px;
+    }
+
+    /* MIN / MAX beviteli mezők */
+    .min-max-inputs {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .input-group {
+        display: flex;
+        align-items: center;
+        font-size: 11px;
+        color: #8a9bb3;
+    }
+
+    .input-group label {
+        margin-right: 10px;
+        font-weight: 600;
+    }
+
+    .input-group input {
+        width: 50px;
+        background-color: #111720;
+        color: #e2e8f0;
+        border: 1px solid #2d3b4e;
+        border-radius: 4px;
+        padding: 5px 8px;
+        font-size: 13px;
+        text-align: center;
+        outline: none;
+        transition: border-color 0.2s;
+    }
+    
+    .input-group input:focus {
+        border-color: #3b82f6;
+    }
+
+    /* Eltünteti a fel/le nyilakat a number inputból (Chrome/Safari) */
+    .input-group input::-webkit-outer-spin-button,
+    .input-group input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }

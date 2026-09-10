@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="szamolgatas.js"></script>
+</head>
+<style>
+        /* Alapbeállítások és a tartalom középre igazítása */
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+        background-color: #f3f4f6; /* Kellemes, szemkímélő világosszürke háttér */
+        font-family: 'Segoe UI', system-ui, sans-serif;
+        color: #1f2937;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    /* Az azonosító (span) - Helyezzük ki a bal felső sarokba, mint egy címkét */
+    span {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        font-size: 14px;
+        font-weight: 600;
+        color: #4b5563;
+        background-color: #e5e7eb;
+        padding: 6px 12px;
+        border-radius: 6px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    /* A kiírt pontszám (h1) */
+    h1 {
+        font-size: 4rem;
+        margin: 0 0 20px 0;
+        color: #111827;
+        font-weight: 800;
+        letter-spacing: -1px;
+    }
+
+    /* A kártya képe */
+    img {
+        max-width: 90vw;
+        max-height: 45vh; /* Garantálja, hogy a kép ne lógjon ki a képernyőről */
+        object-fit: contain;
+        border-radius: 12px;
+        box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15);
+        margin-bottom: 30px;
+        background-color: #ffffff; /* Ha a kép átlátszó lenne, legyen fehér a háttere */
+    }
+
+    /* Beviteli mező az új pontszámnak */
+    input {
+        padding: 14px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        border: 2px solid #d1d5db;
+        border-radius: 8px;
+        width: 150px;
+        text-align: center;
+        margin-bottom: 15px;
+        transition: all 0.2s ease;
+        outline: none;
+        box-shadow: inset 0 2px 4px rgba(0,0,0,0.05);
+    }
+
+    input:focus {
+        border-color: #3b82f6;
+        box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.2);
+    }
+
+    /* Gombok általános stílusa (nagyok és könnyen kattinthatóak) */
+    button {
+        padding: 14px 28px;
+        font-size: 1.2rem;
+        font-weight: bold;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.15s ease;
+        width: 250px;
+        margin-bottom: 15px;
+        color: white;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    }
+
+    button:active {
+        transform: translateY(2px);
+        box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+    }
+
+    /* 1. gomb a DOM-ban: "Következő" -> Zöld (biztonságos / egyezik) */
+    button:nth-of-type(1) {
+        background-color: #10b981;
+    }
+
+    button:nth-of-type(1):hover {
+        background-color: #059669;
+    }
+
+    /* 2. gomb a DOM-ban: "Módosítás" -> Kék (akció / szerkesztés) */
+    button:nth-of-type(2) {
+        background-color: #3b82f6;
+    }
+
+    button:nth-of-type(2):hover {
+        background-color: #2563eb;
+    }
+</style>
+<body>
+    
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars Miniatures Gyűjtemény</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Star Wars hangulatú betűtípus a Google Fonts-ról -->
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+    
+</head>
+<body>
+
+    <!-- Fejléc (Header) -->
+    <header class="app-header">
+        <div class="logo-area">
+            <span class="holo-icon" id="kör">⬤</span>
+            <span class="holo-icon" id="rombusz">◆</span>
+            <span class="holo-icon">★</span>
+            <span class="holo-icon">✪</span>
+            <h1>MINIATURE <span>BEJELENTKEZŐ</span></h1>
+        </div>
+
+    </header>
+
+    
+
+    <!-- Fő elrendezés: Oldalsáv + Tartalom -->
+    <div class="app-container">
+
+        <!-- Fő tartalom: A kártyák hálója -->
+        <main class="main-content">
+            <div id="login-wrapper">
+				<div id="login-panel">
+					<!-- Kék fénnyel világító kártya -->
+					<a href="index.html">
+						<div class="login-profile blue-glow">
+							<div class="image-wrapper">
+								<!-- Ide tedd be a saját képed elérését -->
+								<img src="profile_pics//attila.jpg" alt="Kibernetikus Ügynök" onclick="chooseProfileAttila()">
+							</div>
+							<span>Attila</span>
+						</div>
+					</a>
+					<!-- Piros fénnyel világító kártya -->
+					<a href="index.html">
+						<div class="login-profile red-glow">
+							<div class="image-wrapper">
+								<!-- Ide tedd be a saját képed elérését --> 
+								<img src="profile_pics//zoli.jpg" alt="Démon Úr" onclick="chooseProfileZoli()">
+							</div>
+							<span>Zoli</span>
+						</div>
+					</a>
+				</div>
+				
+			</div>
+        </main>
+    </div>
+
+
+    <script src="merged_with_id.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

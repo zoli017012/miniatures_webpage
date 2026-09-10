@@ -1,0 +1,4322 @@
+[
+    {
+        "name": "rter Set",
+        "img_url": "https://www.rebelscum.com/images/archivesheader-top.gif",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/wotc04rebelstormfettboxfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "imate Missions",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiRSultmissionsfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Bothan Spy",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSbothancardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "C-3PO",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSc3pocardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Chewbacca",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSchewiecardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Commando On Speeder Bike",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRScommspeedercardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Elite Hoth Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRShoth1cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Elite Rebel Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSfleet1cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Han Solo",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRShancardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Hoth Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRShoth2cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Luke Skywalker, Jedi Knight",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSlukejedicardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Luke Skywalker, Rebel",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSlukecardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSbencardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Princess Leia, Captive",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSleiaslavecardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Princess Leia, Senator",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSleiacardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "R2-D2",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSr2d2cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Rebel Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSendorcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Rebel Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRShothoffcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Rebel Pilot",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSrebpilotcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Rebel Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSfleet2cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Rebel Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSfleet3cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Wookiee Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSwookieecardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Darth Vader, Dark Jedi",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSvadercardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Darth Vader, Sith Lord",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSvader2cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Elite Snowtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSsnow1cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Elite Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSstormelitecardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Emperor Palpatine",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSemperorcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "General Veers",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSveerscardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Grand Moff Tarkin",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRStarkincardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Heavy Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSstormheavycardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Imperial Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiRSimpoffcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Mara Jade, Emperor's Hand",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSmaracardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Probe Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSprobotcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Royal Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSroyalcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Scout Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSscoutcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Scout Trooper on Speeder Bike",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSscoutspeedercardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Snowtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSsnow2cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSstorm1cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSstorm2cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSstorm3cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Stormtrooper Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSstormoffcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Sandtrooper on Dewback",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSdewbackcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Bespin Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSbespincardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Boba Fett",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSbobacardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Dengar",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSdengarcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Duros Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSduroscardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Ewok",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSewokcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "4-LOM",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRS4lomcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Gamorrean Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSgamcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "IG-88",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSig88cardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Ithorian Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSithoriancardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Jabba the Hutt",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSjabbacardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Jawa",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSjawacardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Lando Calrissian",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSlandocardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Mon Calamari Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSmoncalcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Quarren Assassin",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSquarrencardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Greedo",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSgreedocardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Bossk",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSbosskcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Tusken Raider",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRStuskencardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Twi'lek Bodyguard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRStwiguardcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Twi'lek Scoundrel",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRStwiscoundrelcardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "Wampa",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiRSwampacardfr.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "motional Flyer Insert",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiinsert2.jpg",
+        "set_name": "Rebel Storm"
+    },
+    {
+        "name": "rter Set",
+        "img_url": "https://www.rebelscum.com/images/archivesheader-top.gif",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSboosterbox1.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "imate Missions",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiCSultmissionsfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Aayla Secura",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSaaylacardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Aerial Clone Trooper Captain",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSclonecapcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Anakin Skywalker",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSanakincardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "ARC Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSarccardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Captain Typho",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCStyphocardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Clone Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSclone6cardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Clone Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSclone7cardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Clone Trooper Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSclonecomcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Clone Trooper Grenadier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSclonegrencardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Clone Trooper Sergeant",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSclonesargecardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Agen Kolar",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSagencardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "General Kenobi",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSobiwancardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Gungan Calvary on Kaadu",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSkaaducardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Gungan Infantry",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSinfantrycardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Jedi Guardian",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSjedicardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Ki-Adi-Mundi",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSkicardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Kit Fisto",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSkitcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Luminara Unduli",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSluminaracardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Mace Windu",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSmacecardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Naboo Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSnaboocardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Padmé Amidala",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSpadmecardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Plo Koon",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSplocardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Qui-Gon Jinn",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSquigoncardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Quinlan Vos",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSvoscardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Saesee Tiin",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSsaeseecardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Yoda",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSyodacardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Asajj Ventress",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSasajjcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSBD28cardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSBD29cardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSBD30cardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Battle Droid Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSBDoffcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Battle Droid on Stap",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSBDstapcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Count Dooku",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSdookucardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Darth Side Acolyte",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSacolytecardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Darth Maul",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSmaulcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Darth Sidious",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSsidiouscardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Destroyer Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSDDcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Durge",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSdurgecardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Dwarf Spider Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSdwarfcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "General Grievous",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSgrievouscardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Geonosian Drone",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSdronecardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Geonosian Overseer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSoverseercardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Geonosian Picador on Orray",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSpicadorcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Geonosian Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSsoldiercardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Jango Fett",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSjangocardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Security Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSBDseccardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Super Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSSBD47cardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Super Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSSBD48cardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Aqualish Spy",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSaquacardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Aurra Sing",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSaurracardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Devaronian Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSdevcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Gran Raider",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSgrancardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Ishi Tib Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSishitibcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Klatooinian Enforcer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSklatoocardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Nikto Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSniktocardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Quarren Raider",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSquarrencardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Rodian Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSrodiancardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Weequay Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSweequaycardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Wookie Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSwookieecardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "Zam Wesell",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCSzamcardfr.jpg",
+        "set_name": "Clone Strike"
+    },
+    {
+        "name": "rter Set",
+        "img_url": "https://www.rebelscum.com/images/archivesheader-top.gif",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSboosterbox1.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "imate Missions",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiROTSultmissionsfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Agen Kolar, Jedi Master",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSagencardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Alderaan Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSalderaancardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Anakin Skywalker, Jedi Knight",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSanakincardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "AT-RT",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSatrtcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Bail Organa",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSorganacardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Captain Antilles",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSantillescardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Chewbacca of Kashyyyk",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSchewiecardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Clone Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSclone8cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Clone Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSclone9cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Clone Trooper Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSclonecommcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Clone Trooper Gunner",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTScloneguncardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Jedi Knight",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSjedicardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Mace Windu, Jedi Master",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSmacecardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Mon Mothma",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSmothmacardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "obi-Wan Kenobi, Jedi Master",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSobiwancardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Polis Massa Medic",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSpoliscardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "R2-D2, Astromech Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSr2d2cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Senate Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSsenatecardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Shaak Ti",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSshaakticardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Stass Allie",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSstasscardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Tarfful",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTStarffulcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Wookiee Berserker",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSwookiee22cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Wookiee Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSwookiee23cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Yoda, Jedi Master",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSyodacardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSBD25cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSBD26cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Bodyguard Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSbodyguard27cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Bodyguard Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSbodyguard28cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Darth Tyranus",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTStyranuscardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Destroyer Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSdestroyercardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "General Grievous, Jedi Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSgrievous31cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "General Grievous, Supreme Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSgrievous32cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Grievous's Wheel Bike",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSgrievousbikecardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Muun Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSmuuncardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Neimoidian Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSneimoidian35cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Neimoidian Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSneimoidian36cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "San Hill",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSsanhillcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Separatist Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSseparatistcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Super Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSSBD39cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Super Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSSBD40cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Wat Tambor",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSwattamborcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Boba Fett, Young Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSbobafettcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Chagrian Mercenary Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSchagriancardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Devaronian Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSdevaroniancardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Gotal Fringer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSgotalcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Human Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTShumancardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Iktotchi Tech Specialist",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSiktotchicardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Medical Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSmedicalcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Nautolan Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSnautolancardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Sly Moore",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSslymoorecardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Tion Medon",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTStionmedoncardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Utapaun Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSutapaun52cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Utapaun Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSutapaun53cardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Yuzzem",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSyuzzemcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Zabrak Fringer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSzabrakcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Anakin Skywalker, Sith Apprentice",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSanakinsithcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Dark Side Adept",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSadeptcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Darth Vader",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSvadercardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Emperor Palpatine, Sith Lord",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSemperorcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "Royal Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiROTSroyalcardfr.jpg",
+        "set_name": "Revenge of the Sith"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUHboosterbox1.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Clone Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiUH01clonecardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Clone Trooper on BARC Speeder",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiUH02barccardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Elite Clone Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiUH03elitecardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Flash Speeder",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiUH04flashcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Obi-Wan Kenobi on Boga",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiUH05bogacardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiUH06BDcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Darth Maul on Speeder",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH07Maulcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Hailfire Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH08hailfirecardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Nute Gunray",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH09nutecardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Super Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH10SBDcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Super Battle Droid Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH11SBDCcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Abyssin Black Sun Thug",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH12abyssincardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Acklay",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH13acklaycardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "ASP-7",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH14asp7cardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "B'omarr Monk",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH15bomarrcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Dash Rendar",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH16dashcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Dr. Evazan",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH17evazancardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Gonk Power Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH18gonkcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Guri",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH19guricardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Kaminoan Ascetic",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH20kaminoancardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Lando Calrissian, Hero of Taanab",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH21landocardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Lobot",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH22lobotcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Nexu",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH23nexucardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Ponda Baba",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH24pondacardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Prince Xizor",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH25xizorcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Rancor",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH26rancorcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Reek",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH27reekcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Rodian Black Sun Vigo",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH28rodiancardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Shistavanen Pilot",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH29shistavanencardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Tusken Raider on Bantha",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH30banthacardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Vornskr",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH31vornskrcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "X-1 Viper Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH32x1vipercardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "AT-ST",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH33atstcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Baron Fel",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH34felcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Dark Side Marauder",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH35maraudercardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Dark Trooper Phase III",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH36darktroopercardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Darth Vader, Jedi Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH37vadercardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Grand Admiral Thrawn",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH38thrawncardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Nightsister Sith Witch",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH39witchcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Noghri",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH40noghricardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH41stormcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Stormtrooper Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH42stormcomcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Admiral Ackbar",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH43ackbarcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Bith Rebel",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH44bithcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Chewbacca, Rebel Hero",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH45chewiecardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Dressellian Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH46dresselliancardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Han Solo, Rebel Hero",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH47hancardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Luke Skywalker on Tauntaun",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH48tauntauncardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Nien Nunb",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH49niencardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Princess Leia, Rebel Hero",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH50leiacardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Wedge Antilles",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH51wedgecardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Kyle Katarn",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH52kylecardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Luke Skywalker, Jedi Master",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH53lukecardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "New Republic Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH54nrccardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "New Republic Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH55nrtcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Young Jedi Knightv",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH56youngjedicardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Nom Anor",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH57nomanorcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Warmaster Tsavong Lah",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH58lahcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Yuuzhan Vong Subaltern",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH59vongcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "Yuuzhan Vong Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiUH60vongcardfr.jpg",
+        "set_name": "Universe"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiCOTFboosterbox1.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Bastila Shan",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF01bastilacardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Jedi Consular",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF02consularcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Jedi Guardian",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF03guardiancardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Jedi Sentinel",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF04sentinelcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Old Republic Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF05ORcommcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Old Republic Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF06ORsoldiercardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Dark Jedi",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF07darkjedicardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Dark Jedi Master",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF08darkmastercardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Dark Side Enforcer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF09enforcercardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Darth Bane",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF10banecardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Darth Malak",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF11malakcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Darth Nihilus",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF12nihiluscardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Exar Kun",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF13exarkuncardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Massassi Sith Mutant",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF14massassicardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Sith Assault Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF15sithdroidcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Sith Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF16sithtroopcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Sith Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF17sithtroopcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Sith Trooper Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF18sithcommcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Ulic Qel-Droma",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF19uliccardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Barriss Offee",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF20barrisscardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Clone Commander Bacara",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF21bacaracardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Clone Commander Cody",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF22codycardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Clone Commander Gree",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF23greecardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Depa Billaba",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF24depacardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Even Piell",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF25evencardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "General Windu",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF26winducardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Jedi Padawan",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF27padawancardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Jedi Weapon Master",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF28weaponscardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Kashyyyk Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF29kashyyykcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Mas Amedda",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF30masameddacardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Queen Amidala",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF31queencardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Qui-Gon Jinn (Jedi Master)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF32quigoncardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Republic Commando - Boss",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF33RCbosscardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Republic Commando - Fixer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF34RCfixercardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Republic Commando - Scorch",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF35RCscorchcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Republic Commando - Sev",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF36RCsevcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Saleucami Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF37saleucamicardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Utapau Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF38utapaucardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Crab Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF39crabcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Darth Maul (Champion of the Sith)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF40maulcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Darth Sidious (Dark Lord of the Sith)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF41sidiouscardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Octuptarra Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF42octuptarracardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Hoth Trooper with Atgar Cannon",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF43hothatgarcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Luke Skywalker (Young Jedi)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF44lukecardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Yoda of Dagobah",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF45yodacardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Coruscant Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF46corguardcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Dark Trooper Phase I",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF47darktroopIcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Dark Trooper Phase II",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF48darktroopIIcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Darth Vader (Champion of the Sith)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF49vadercardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Sandtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF50sandcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Snowtrooper with E-Web Blaster",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF51snowEwebcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Corran Horn",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF52corrancardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Jacen Solo",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF53jacencardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Jaina Solo",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF54jainacardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Arcona Smuggler",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF55arconacardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Gundark",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF56gundarkcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "HK-47",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF57HK47cardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "R5 Astromech Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF58R5astrocardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Ugnaught Demolitionist",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF59ugnaughtcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "Varactyl Wrangler",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiCOTF60varactylcardfr.jpg",
+        "set_name": "Champions of the Force"
+    },
+    {
+        "name": "ISP Speeder",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH01ispcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Commerce Guild Homing Spider Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH02homingcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Corporate Alliance Tank Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH03tankcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Droid Starfighter in Walking Mode",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH04vulturecardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Huge Crab Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH05crabcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Chewbacca with C-3PO",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH06chewie3POcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Han Solo, Scoundrel",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH07hancardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Luke Skywalker of Dagobah",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH08lukecardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Princess Leia, Hoth Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH09leiacardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Rebel Captain",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH10rebelcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Rebel Heavy Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH11rebelcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Rebel Snowspeeder",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH12snowcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Lord Vader",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH13vadercardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Talon Karrde",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH14karrdecardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Aqualish Assassin",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH15aqualishcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Ayy Vida",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH16ayyvidacardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Bib Fortuna",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH17bibcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Bith Black Sun Vigo",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH18bithcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Boba Fett, Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH19bobacardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "BoShek",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH20boshekcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Bossk, Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH21bosskcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Boushh",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH22boushhcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Calo Nord",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH23nordcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Corellian Pirate",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH24corelliancardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Dannik Jerriko",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH25dannikcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Dark Hellion Marauder on Swoop Bike",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH26swoopcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Dark Hellion Swoop Bike Gang member",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH27hellioncardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Defel Spy",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH28defelcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Dengar, Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH29dengarcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Djas Puhr",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH30djascardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "E522 Assassin Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH31assassincardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "4-LOM, Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH324lomcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Gamorrean Thug",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH33gamcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Garindan",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH34garindancardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Human Blaster-for-Hire",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH35humancardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "IG-88, Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH36ig88cardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Jango Fett, Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH37jangocardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Klatoonian Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH38klatooiniancardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Komari Vosa",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH39komaricardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Mistryl Shadow Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH40mistrylcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Mustafarian Flea Rider",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH41fleacardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Mustafarian Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH42mustafarcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Nikto Gunner on Desert Skiff",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH43skiffcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Nym",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH44nymcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Quarren Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH45quarrencardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Rodian Hunt Master",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH46rodiancardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Tamtel Skreej (Lando Calrissian)",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH47skreejcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Tusken Raider Sniper",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH48tuskencardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Utapaun on Dectillion",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH49dactillioncardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Weequay Leader",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH50weequaycardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Weequay Thug",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH51weequaycardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Young Krayt Dragon",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH52kraytcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Zuckuss",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH53zuckusscardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Basilisk War Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH54basiliskcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Mandalore the Indomitable",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH55mandalorecardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Mandalorian Blademaster",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH56mandcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Mandalorian Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH57mandcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Mandalorian Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH58mandcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Mandalorian Supercommando",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH59mandsupercardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "Mandalorian Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH60mandcardfr.jpg",
+        "set_name": "Bounty Hunters"
+    },
+    {
+        "name": "rter Set",
+        "img_url": "https://www.rebelscum.com/SWmini/swminiBH10rebelLS-m.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_021.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Quinlan Vos (Infiltrator)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_01card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Aurra Sing (Jedi Hunter)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_02card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Biggs Darklighter",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_03card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Chewbacca (Enraged Wookiee)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_04card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "C-3PO & R2-D2",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_05card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Elite Hoth Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_06card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Han Solo (Rogue)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_07card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Han Solo (Stormtrooper Armor)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_08card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Han Solo on Tauntaun",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_09card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Ithorian Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_10card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Luke Skywalker (Champion of the Force)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_11card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Luke Skywalker (Hero of Yavin)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_12card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Luke's Landspeeder",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_13card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Mon Calamari Tech Specialist",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_14card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Obi-Wan Kenobi (Force Spirit)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_15card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Princess Leia",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_16card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Rebel Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_17card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Rebel Commando Strike Leader",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_18card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Rebel Leader",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_19card1.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Rebel Pilot",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_20card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Rebel Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_21card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Twi'lek Rebel Agent",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_22card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Wookiee Freedom Fighter",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_23card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Admiral Piett",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_24card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Darth Vader (Imperial Commander)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_25card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Death Star Gunner",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_26card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Death Star Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_27card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Heavy Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_28card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Imperial Governor Tarkin",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_29card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Imperial Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_30card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Scout Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_31card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Snowtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_32card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Storm Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_33card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_34card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Stormtrooper Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_35card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Stormtrooper on Repulsor Sled",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_36card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Mara Jade (Jedi)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_37card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Boba Fett (Enforcer)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_38card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Chadra-Fan Pickpocket",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_39card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Duros Explorer",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_40card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Ephant Mon",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_41card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Ewok Hang Glider",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_42card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Ewok Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_43card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Gamorrean Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_44card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Human Force Adept",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_45card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Jabba (Crime Lord)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_46card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Jawa on Ronto",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_47card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Jawa Treader",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_48card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Lando Calrissian (Dashing Scoundrel)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_49card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Nikto Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_50card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Rampaging Wampa",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_51card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Rodian Scoundrel",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_52card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Snivvian Fringer",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_53card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Talz Spy",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_54card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Trandoshan Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_55card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Tusken Raider",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_56card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Wicket",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_57card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Advance Agent (Officer)",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_58card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Advance Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_59card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "Yomin Carr",
+        "img_url": "https://www.rebelscum.com/SWmini/AllianceEmpire/swminiAE_60card2.jpg",
+        "set_name": "Alliance and Empire"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFUbox1.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Darth Revan",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU01revanCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Kazdan Paratus",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU02kazdanCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Shaak Ti, Jedi Master",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU03shaaktiCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Chewbacca of Hoth",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU04chewieCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Elite Hoth Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU05hotheliteCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Golan Arms DF.9 Anti-Infantry Battery",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU06golanCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Han Solo in Carbonite",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU07hancarbCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Han Solo of Hoth",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU08hanhothCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Hoth Trooper Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU09hothoffCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Hoth Trooper with Repeating Blaster Cannon",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU10hothcannonCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Juno Eclipse",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU11junoCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "K-3PO",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU12k3poCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Luke Skywalker, Hoth Pilot Unleashed",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU13lukepilotCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Luke Skywalker and Yoda",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU14lukeyodaCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Luke's Snowspeeder",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU15lukesnowCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Master Kota",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU16kotaCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Mon Calamari Medic",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU17moncalCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Obi-Wan Kenobi, Unleashed",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU18obiwanCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Princess Leia of Cloud City",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU19leiaCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Rebel Marksman",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU20rebmarkCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Rebel Troop Cart",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU21rebcartCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Rebel Trooper on Tauntaun",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU22tauntaunCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Rebel Vanguard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU23vanguardCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "2-1B",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU2421bCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Vader's Apprentice, Redeemed",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU25apprenticeCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Verpine Tech",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU26verpineCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Wedge Antilles, Red Two",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU27wedgeCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Wookiee warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU28wookieeCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Admiral Ozzel",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU29ozzelCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "AT-AT Driver",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU30atatCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Dark Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU31darkCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Darth Vader, Unleashed",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU32vaderCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Emperor's Shadow Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU33shadowCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Evo Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU34evoCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Felucian Stormtrooper Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU35stormCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Gotal Imperial Assassin",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU36gotalCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Imperial Navy Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU37navyCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Raxus Prime Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU38raxusCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Snowtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU39snowCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Star Destroyer officer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU40SDoffCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU41stormCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "TIE Crawler",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU42TIEcrawlerCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Vader's Apprentice, Unleashed",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU43apprenticeCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Wookiee Hunter AT-ST",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU44atstCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Garm Bel Iblis",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU45garmCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Amanin Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU46amaninCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Boba Fett, Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU47bobaCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Caamasi Noble",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU48caamasiCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Cloud Car Pilot",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU49cloudcarCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Felucian Warrior on Rancor",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU50rancorCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Junk Golem",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU51golemCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Knobby White Spider",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU52spiderCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Maris Brood",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU53marisCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Muun Tactics Broker",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU54muunCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Mynock",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU55mynockCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "PROXY",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU56proxyCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Telosian Tank Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU57tankCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Uggernaut",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU58uggernautCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Ugnaught Boss",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU59ugbossCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Ugnaught Tech",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiTFU60ugtechCF.jpg",
+        "set_name": "The Force Unleashed"
+    },
+    {
+        "name": "Nomi Sunrider",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF01nomicardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Old Republic Recruit",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF02ORrecruitcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Old Republic Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF03ORscoutcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Darth Caedus",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF04caeduscardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Darth Krayt",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF05kraytcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Darth Nihl",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF06nihlcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Darth Talon",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF07taloncardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Lumiya (The Dark lady)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF08lumiyacardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Republic Commando Training Sergeant",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF09RCsergeantcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Darth Tyranus (Legacy of the Dark Side)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF10tyranuscardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Bothan Noble",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF11bothancardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Deena Shan",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF12deenacardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Elite Rebel Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF13eliteRCcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "General Dodonna",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF14dodonnacardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Luke Skywalker (Legacy of the Light Side)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF15lukeLOTLScardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Rebel Honor Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF16RHGcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Twi'Lek Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF17twilekcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Antares Draco",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF18dracocardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Emperor Roan Fel",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF19empfelcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Imperial Knight",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF20impknightcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Imperial Knight",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF21impknightcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Imperial Pilot",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF22imppilotcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Imperial Security Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF23impsecoffcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Jagged Fel",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF24jaggedfelcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Marasiah Fel",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF25marasiahfelcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Moff Morlish Veed",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF26moffveedcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Moff Nyna Calixte",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF27moffcalixtecardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Noghri Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF28noghricardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Shadow Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF29shadowstormcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Corellian Security Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF30corseccardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Galactic Alliance Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF31GAscoutcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Galactic Alliance Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF32GAtroopercardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Han Solo (Galactic Hero)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF33hansolocardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Kyle Katarn (Jedi Battlemaster)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF34kylekatarncardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Leia Organa Solo (Jedi Knight)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF35leiajedicardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Luke Skywalker (Force Spirit)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF36lukespiritcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Mara Jade Skywalker",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF37maracardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Shado Vao",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF38shadovaocardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Wolf Sazen",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF39wolfsazencardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Cade Skywalker (Bounty Hunter)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF40cadecardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Deliah Blue",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF41deliahbluecardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Dug Fringer",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF42dugcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Duros Scoundrel",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF43duroscardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Gotal Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF44gotalcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Guard Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF45guarddroidcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Human Bodyguard",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF46Hbodyguardcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Human Scoundrel",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF47Hscoundrelcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Human Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF48Hscoutcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Jariah Syn",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF49jariahsyncardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Kel Dor Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF50keldorcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Rodian Blaster-For-Hire",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF51rodiancardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Trandoshan Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF52trandoshancardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Boba Fett (Mercenary Commander)",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF53bobafettcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Canderous Ordo",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF54ordocardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Mandalorian Gunslinger",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF55Mgunslingercardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Mandalorian Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF56Mtroopercardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Yuuzhan Vong Elite Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF57vongelitecardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Yuuzhan Vong Jedi Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF58vongjedihuntercardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Yuuzhan Vong Shaper",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF59vongshapercardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Yuuzhan Vong Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/SWminiLOTF60vongwarriorcardfr.jpg",
+        "set_name": "Legacy of the Force"
+    },
+    {
+        "name": "Atton Rand",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-01card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Bao-Dur",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-02card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Carth Onasi",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-03card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Juggernaut War Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-04card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Master Lucien Draay",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-05card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Mira",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-06card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Old Republic Captain",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-07card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Old Republic Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-08card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Squint",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-09card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Visas Marr",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-10card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Wookiee Elite Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-11card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Wookiee Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-12card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Darth Malak (Dark Lord of the Sith)",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-13card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Darth Sion",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-14card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Elite Sith Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-15card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Sith Assassin",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-16card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Sith Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-17card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Sith Heavy Assault Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-18card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Sith Marauder",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-19card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Sith Operative",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-20card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Sith Trooper Captain",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-21card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Captain Panaka",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-22card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Captain Tarpals",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-23card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Gungan Artillerist",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-24card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Gungan Shieldbearer",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-25card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Gungan Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-26card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Jar Jar Binks",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-27card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Obi-Wan Kenobi (Padawan)",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-28card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Supreme Chancellor Palpatine",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-29card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Han Solo (Smuggler)",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-30card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Leia Organa (Senator)",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-31card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Luke Skywalker (Jedi)",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-32card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Darth Vader (Scourge of the Jedi)",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-33card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "RA-7 Death Star Protocol Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-34card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "General Wedge Antilles",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-35card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "ASN Assassin Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-36card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Boma",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-37card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Czerka Scientist",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-38card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Echani Handmaiden",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-39card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "GenHaradan Assassin",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-40card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Jarael",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-41card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Jawa Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-42card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Jolee Bindo",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-43card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Juhani",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-44card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Kreia",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-45card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Massiff",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-46card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Mission Vao",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-47card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Rakghoul",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-48card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Shyrack",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-49card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "T1 Series Bulk Loader Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-50card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "T3-M4",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-51card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Tusken Raider Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-52card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Zaalbar",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-53card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Zayne Carrick",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-54card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Mandalore the Ultimate",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-55card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Mandalorian Captain",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-56card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Mandalorian Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-57card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Mandalorian Marauder",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-58card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Mandalorian Quartermaster",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-59card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "Mandalorian Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/KOTOR/swminiKOTOR-60card2.jpg",
+        "set_name": "Knights of the Old Republic"
+    },
+    {
+        "name": "rter Set",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW_012.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW_025.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "nario Pack",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW_004.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "wdown at Teth Palace Map Pack",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW003.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "stal Caves of Ilum Map Pack",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW001.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Darth Sidious Hologram",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-01card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Ahsoka Tano",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-02card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Anakin Skywalker (Champion of Nelvaan)",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-03card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Anakin Skywalker on STAP",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-04card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "ARC Trooper Sniper",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-05card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Barriss Offee (Jedi Knight)",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-06card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Captain Rex",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-07card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Clone Trooper on Gelagrub",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-08card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Commander Gree",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-09card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Elite Clone Trooper Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-10card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Elite Clone Trooper Grenadier",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-11card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Galactic Marine",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-12card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "General Aayla Secura",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-13card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Heavy Clone Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-14card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Mon Calamari Knight",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-15card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Odd Ball",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-16card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Padmé Amidala (Senator)",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-17card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Star Corps Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-18card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Wookiee Scoundrel",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-19card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Yoda on Kybuck",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-20card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-21card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-22card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Battle Droid Sniper",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-23card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Chameleon Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-24card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Durge (Jedi Hunter)",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-25card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "General Grievous (Droid Army Commander)",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-26card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Heavy Super Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-27card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "IG-100 MagnaGuard",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-28card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Neomoidian Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-29card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Quarren Isolationist",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-30card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Rocket Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-31card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Super Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-32card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Techno Union Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-33card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Aqualish Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-34card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Gha Nachkt",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-35card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Human Soldier of Fortune",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-36card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "IG-86 Assassin Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-37card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Nelvaanian Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-38card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Trandoshan Scavenger",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-39card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "Utapaun Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/TCW/swminiTCW-40card2.jpg",
+        "set_name": "The Clone Wars"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-003.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Bothan Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-01card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "C-3PO (Ewok Deity)",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-02card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "General Crix Madine",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-03card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "General Rieekan",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-04card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Leia (Bounty Hunter)",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-05card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Luke Skywalker (Rebel Commando)",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-06card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Rebel Commando Pathfinder",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-07card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Rebel Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-08card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "R2-D2 with Extended Sensor",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-09card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Veteran Rebel Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-10card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Arica",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-11card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Darth Vader (Legacy of the Force)",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-12card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Emperor palpatine on Throne",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-13card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Imperial Dignitary",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-14card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Moff Tiaan Jerjerrod",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-15card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "181st Imperial Pilot",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-16card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Sandtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-17card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Sandtrooper Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-18card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Scout Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-19card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Shock Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-20card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Snowtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-21card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Snowtrooper Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-22card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-23card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Thrawn (Mitth'raw'nuruodo)",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-24card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Kyp Durron",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-25card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Bacta Tank",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-26card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Bespin Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-27card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Chiss Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-28card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Dash Rendar (Renegade Smuggler)",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-29card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Duros Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-30card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Ewok Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-31card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Jawa Scavenger",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-32card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Lobot (Computer Liaison Officer)",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-33card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Logray (Ewok Shaman)",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-34card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Mercenary Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-35card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Mouse Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-36card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Twi'lek Black Sun Vigo",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-37card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Ugnaught Droid Destroyer",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-38card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Whiphid Tracker",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-39card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "Xizor",
+        "img_url": "https://www.rebelscum.com/SWmini/IE/swminiIE-40card2.jpg",
+        "set_name": "Imperial Entanglements"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-002.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Jedi Battlemaster",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-01card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Jedi Crusader",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-02card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Jedi Exile",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-03card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Vodo-Siosk Baas",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-04card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Darth Maul (Sith Apprentice)",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-05card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Darth Plagueis",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-06card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Darth Sidious (Sith Master)",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-07card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Krath War Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-08card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Naga Sadow",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-09card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Sith Apprentice",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-10card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Sith Lord",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-11card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Antarian Ranger",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-12card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Dark Woman",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-13card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Grand Master Yoda",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-047.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Heavy Clone Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-15card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Maser K'Kruhk",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-16card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Qui-Gon Jinn (jedi Trainer)",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-17card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Youngling",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-18card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Rocket Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-19card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Disciples of Ragnos",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-20card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Imperial Sentinel",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-21card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Reborn",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-22card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-23card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Anakin Solo",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-24card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Cade Skywalker (Padawan)",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-25card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Exceptional Jedi Apprentice",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-26card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Grand Master Luke Skywalker",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-27card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Kol Skywalker",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-28card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Kyle Katarn (Combat Instructor)",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-29card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Leia Skywalker (Jedi Knight)",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-30card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Crimson Nova Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-31card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Felucian",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-32card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "HK-50 Series Assassin Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-33card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Jensaarai Defender",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-34card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Peace Brigade Thug",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-35card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "R4 Astromech Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-36card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Death Watch Raider",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-37card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Praetorite Vong Priest",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-38card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Praetorite Vong Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-39card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Yuuzhan Vong Ossus Guardian",
+        "img_url": "https://www.rebelscum.com/SWmini/JediAcademy/swminiJA-40card2.jpg",
+        "set_name": "Jedi Academy"
+    },
+    {
+        "name": "Asajj Ventress (Strike Leader)",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-01card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-02card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Battle Droid Sergeant",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-03card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "B3 Ultra Battle Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-04card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Captain Mar Tuuk",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-05card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Commando Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-06card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Commando Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-07card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Commando Droid Captain",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-08card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "A4-Series Lab Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-09card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "General Grievous (Scourge of the Jedi)",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-10card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "General Whorm Loathsome",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-11card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "IG-100 MagnaGuard",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-12card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "IG-100 MagnaGuard Artillerist",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-13card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "LR-57 Combat Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-14card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Wat Tambor (Techno Union Foreman)",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-15card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Admiral Yularen",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-16card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "ARF Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-17card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "AT-TE Driver",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-18card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Captain Argyus",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-19card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Clone Trooper Pilot",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-20card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Clone Trooper Sergeant",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-21card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Clone Trooper with Night Vision",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-22card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Clone Trooper with Repeating Blaster",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-23card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Commander Ahsoka",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-24card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Commander Cody",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-25card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Captain Rex (501st Commander)",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-26card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Elite Senate Guard",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-27card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "501st Clone Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-28card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "General Skywalker",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-29card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Jedi Master Kit Fisto",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-30card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Nahdar Vebb",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-31card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Obi-Wan Kenobi (Jedi General)",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-32card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Senate Commando",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-33card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Aqualish Technician",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-34card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Cad Bane",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-35card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Hondo Ohnaka",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-36card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "R7 Astromech Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-37card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Rodian Trader",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-38card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Treadwell Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-39card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "Weequay Pirate",
+        "img_url": "https://www.rebelscum.com/SWmini/GalaxyatWar/swminiGAW-40card2.jpg",
+        "set_name": "Galaxy at War"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-202.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Jedi Watchman",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-01card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Elite Sith Assassin",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-02card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "ARF Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-03card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "A'Sharad Hett",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-04card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "501st Legion Clone Commander",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-05card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "501st Legion Clone Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-06card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "K'Kruhk",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-07card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Merumeru",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-08card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "EG-5 Jedi Hunter Droid",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-09card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Chewbacca (Fearless Scout)",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-10card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Dass Jennir",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-11card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Ferus Olin",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-12card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Jax Pavan",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-13card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Kota's Elite Militia",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-14card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Kota's Militia",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-15card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Emperor's Hand",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-15card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "501st Legion Stormtrooper",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-17card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Imperial Engineer",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-18card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Imperial Inquisitor",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-19card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Imperial Sovereign",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-20card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Kir Kanos",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-21card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Major Maximilian Veers",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-22card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Bomo Greenbark",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-23card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Bossk (Trandoshan Hunter)",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-24card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Boushh (Ubese Hunter)",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-25card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Dengar (Hired Killer)",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-26card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "4-LOM (Droid Mercenary)",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-27card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Gungan Bounty Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-28card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Human Engineer",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-29card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "IG-88 (Assassin Droid)",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-30card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Rodian Brute",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-31card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Rodian Raider",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-32card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Talz Chieftain",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-33card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Talz Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-34card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Togorian Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-35card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Trandoshan Elite Mercenary",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-36card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Trianii Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-37card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "T'Surr",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-38card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Zuckuss (Bounty Hunter)",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-39card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "Mandalorian Jedi Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/DarkTimes/swminiDT-40card2.jpg",
+        "set_name": "Dark Times"
+    },
+    {
+        "name": "ster Packs",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-002.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Cay Qel-Droma",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-01card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Jedi Healer",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-02card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Jedi Instructor",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-03card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Jedi Sith Hunter",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-04card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Lord Hoth",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-05card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Freedon Nadd",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-06card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Kit Fisto (Jedi Master)",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-07card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Master Windu",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-08card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Plo Koon (Jedi Master)",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-09card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Rodian Diplomat",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-10card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Saesee Tiin (Jedi Master)",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-11card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Voolvif Monn",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-12card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Battle Droid Officer",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-13card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Anakin Skywalker (Force Spirit)",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-14card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "General Han Solo",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-15card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Lando Calrissan (Rebel Leader)",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-16card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Rebel Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-17card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Red Hand Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-18card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Yoda (Force Spirit)",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-19card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Arden Lyn",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-20card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Darth Vader (Sith Apprentice)",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-21card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Ganner Rhysode",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-22card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Blood Carver Assassin",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-23card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Chiss Trooper",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-24card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Ewok Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-25card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Gamorrean Bodyguard",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-26card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Ghhhk",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-27card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Grievous (Kaleesh)",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-28card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Houjix",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-29card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "K'lor'slug",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-30card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Kaminoan Medic",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-31card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Kintan Strider",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-32card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Mantellian Savrip",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-33card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Molator",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-34card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Monnok",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-35card1.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Ng'ok",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-36card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Sullustan Scout",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-37card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Toydarian Soldier",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-38card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Far Outsider",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-39card2.jpg",
+        "set_name": "Masters of the Force"
+    },
+    {
+        "name": "Taung Warrior",
+        "img_url": "https://www.rebelscum.com/SWmini/MastersoftheForce/swminiMOTF-40card2.jpg",
+        "set_name": "Masters of the Force"
+    }
+]

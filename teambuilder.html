@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars Miniatures Gyűjtemény</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Star Wars hangulatú betűtípus a Google Fonts-ról -->
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+</head>
+<body onload="init()">
+
+    <!-- Fejléc (Header) -->
+    <header class="top-navbar">
+        <div class="logo-area">
+            <span class="holo-icon" id="kör">⬤</span>
+            <span class="holo-icon" id="rombusz">◆</span>
+            <span class="holo-icon">★</span>
+            <span class="holo-icon">✪</span>
+            <h1>MINIATURE <span>CSAPATÉPÍTŐ</span></h1>
+        </div>
+
+        <!-- Szűrő gombok -->
+         <ul class="nav-links">
+            <li>
+            <a href="index.html" class="nav-item" onclick="loadCardsByState('Missing', this)">
+                <i class="fas fa-times"></i>
+                <span>Főoldal</span>
+            </a>
+            </li>
+            <li>
+            <a href="#" class="nav-item active" onclick="loadCardsByState(this)">
+                <i class="fas fa-check"></i>
+                <span>Összes</span>
+            </a>
+            </li>
+            </li>
+            <li>
+            <a href="#" class="nav-item" onclick="loadTeam(this)">
+                <i class="fas fa-check"></i>
+                <span>Csapat</span>
+            </a>
+            </li>
+            <li>
+            <a href="#" class="nav-item" onclick="loadProfileTeams(this)">
+                <i class="fas fa-check"></i>
+                <span>Csapataim</span>
+            </a>
+            </li>
+            <li>
+            <a href="#" class="nav-item" onclick="showCreationWindow(this)">
+                <i class="fas fa-shopping-cart"></i>
+                <span>Csapat létrehozás</span>
+            </a>
+            </li>
+            <li>
+            <a href="#" class="nav-item" onclick="showModifyingWindow(this)">
+                <i class="fas fa-star"></i>
+                <span>Csapat módosítás</span>
+            </a>
+            </li>
+            <li>
+                <div class="custom-select-wrapper">
+                    <select onchange="changeTeam(this.value)" id="team-selector" class="custom-select">
+                    </select>
+                </div>
+            </li>
+            <li>
+                <span class="sw-btn" id="point_stat"></span>
+            </li>
+        </ul>
+        
+        
+
+
+        <!-- Keresőmező -->
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Kártya keresése..." onkeyup="filterCards()">
+            <span class="search-icon">🔍</span>
+        </div>
+    </header>
+
+    
+
+    <!-- Fő elrendezés: Oldalsáv + Tartalom -->
+    <div class="app-container">
+        <!-- Oldalsáv (Sidebar) -->
+        <nav class="sci-fi-sidebar">
+            
+            <!-- RENDEZÉS SZERINT -->
+            <div class="filter-section">
+                <div class="sidebar-header">
+                    Rendezés szerint
+                </div>
+                <select class="custom-select" onchange="applyOrdering(this.value)">
+                    <option value="score-asc">Pontszám: Növekvő</option>
+                    <option value="score-desc">Pontszám: Csökkenő</option>
+                </select>
+            </div>
+            
+            
+            <div class="sidebar-header">
+                Frakciók
+            </div>
+            <ul class="sidebar-menu" id="fraction_list">
+
+            </ul>
+            <div class="sidebar-header" >
+                <div class="search-box">
+                    <input type="text" id="skill_search" placeholder="Képesség keresése..." onkeyup="filterSkills()">
+                    <span class="search-icon">🔍</span>
+                </div>
+            </div>
+            <ul class="sidebar-menu" id="skill_list">
+
+            </ul>
+            <div class="sidebar-header" >
+                Szűrők
+            </div>
+                <div class="filter-section">
+                    <div class="accordion-header">
+                        <span class="accordion-title">Pontszám Tartomány</span>
+                        <span class="accordion-icon">&#9650;</span> <!-- Felfelé mutató nyíl ikon -->
+                    </div>
+                    
+                    <div class="range-container">
+                        <div class="bubble-container">
+                            <span class="bubble min-bubble" id="min-bubble">0</span>
+                            <span class="bubble max-bubble" id="max-bubble">115</span>
+                        </div>
+
+                        <div class="slider-track-container">
+                            <div class="slider-track"></div>
+                            <div class="slider-progress" id="slider-progress"></div> 
+                            
+                            <input type="range" min="0" max="115" value="0" class="range-input" id="min-range">
+                            <input type="range" min="0" max="115" value="115" class="range-input" id="max-range">
+                        </div>
+                        
+                        <div class="slider-labels">
+                            <span>0</span>
+                            <span>115</span>
+                        </div>
+
+                        <div class="min-max-inputs">
+                            <div class="input-group">
+                                <label>MIN</label>
+                                <input type="number" value="0" id="min-input" min="0" max="115">
+                            </div>
+                            <div class="input-group">
+                                <label>MAX</label>
+                                <input type="number" value="115" id="max-input" min="0" max="115">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            
+        </nav>
+
+        <!-- Fő tartalom: A kártyák hálója -->
+        <main class="main-content">
+            <div class="scroll-area">
+                <div id="card-container">
+                    <div id="test-card">
+                        <img src="babu_atlatszo.png" alt="" id="test-image">
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modális ablak -->
+    <dialog id="myModal">
+        <div id="modalContent"></div>
+    </dialog>
+
+    <script src="variables.js"></script>
+    <script src="teambuilder_script.js"></script>
+</body>
+</html>

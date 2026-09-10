@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars Miniatures Gyűjtemény</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Star Wars hangulatú betűtípus a Google Fonts-ról -->
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
+<body onload="init()">
+
+    <!-- Fejléc (Header) -->
+    <header class="app-header">
+        <div class="logo-area">
+            <span class="holo-icon" id="kör">⬤</span>
+            <span class="holo-icon" id="rombusz">◆</span>
+            <span class="holo-icon">★</span>
+            <span class="holo-icon">✪</span>
+            <h1>MINIATURE <span>GYŰJTEMÉNY</span></h1>
+        </div>
+
+        <!-- Szűrő gombok -->
+        <nav class="nav-buttons">
+            <button class="sw-btn" onclick="loadCardsByState('Missing')">Hiányzik</button>
+            <button class="sw-btn" onclick="loadCardsByState('Owned')">Megvan</button>
+            <button class="sw-btn" onclick="loadCardsByState('Wanted')">Kell</button>
+            <a href="teambuilder.html"><button class="sw-btn">Csapatépítő</button></a>
+            <a href="maps.html"><button class="sw-btn">Térképek</button></a>
+            <button class="sw-btn" onclick="loadFavoriteCards()">Kedvencek</button>
+        </nav>
+
+        <!-- Keresőmező -->
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Kártya keresése..." onkeyup="filterCards()">
+            <span class="search-icon">🔍</span>
+        </div>
+    </header>
+
+    
+
+    <!-- Fő elrendezés: Oldalsáv + Tartalom -->
+    <div class="app-container">
+        <!-- Oldalsáv (Sidebar) -->
+        <nav class="sci-fi-sidebar">
+            
+            <div class="filter-section">
+                <div class="sidebar-header">
+                    Rendezés szerint
+                </div>
+                <select class="custom-select" onchange="applyOrdering(this.value)">
+                    <option value="date-asc">Dátum: Növekvő</option>
+                    <option value="date-desc">Dátum: Csökkenő</option>
+                </select>
+            </div>
+            
+            <div class="sidebar-header">
+                Szettek
+            </div>
+            <ul class="sidebar-menu" id="set_list">
+            </ul>
+            
+            <div class="sidebar-header" style="margin-top: 20px;">
+                Frakciók
+            </div>
+            <ul class="sidebar-menu" id="fraction_list">
+
+            </ul>
+            <div class="sidebar-header" style="margin-top: 20px;">
+                Ritkaság
+            </div>
+            <ul class="sidebar-menu" id="rarity_list">
+
+            </ul>
+        </nav>
+
+        <!-- Fő tartalom: A kártyák hálója -->
+        <main class="main-content">
+            <div id="card-container">
+                <div id="test-card">
+                    <img src="babu_atlatszo.png" alt="" id="test-image">
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modális ablak -->
+    <dialog id="myModal">
+        <div id="modalContent"></div>
+    </dialog>
+
+    <script src="merged_with_id.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

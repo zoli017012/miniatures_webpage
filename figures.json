@@ -1,0 +1,4322 @@
+[
+    {
+        "name": "Cay Qel Droma",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/cay-qel-droma.jpg"
+    },
+    {
+        "name": "Jedi Healer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/jedi-healer.jpg"
+    },
+    {
+        "name": "Jedi Instructor",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/jedi-instructor.jpg"
+    },
+    {
+        "name": "Jedi Sith Hunter",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/jedi-sith-hunter.jpg"
+    },
+    {
+        "name": "Lord Hoth",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/lord-hoth.jpg"
+    },
+    {
+        "name": "Freedon Nadd",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/freedon-nadd.jpg"
+    },
+    {
+        "name": "Kit Fisto, Jedi Master",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/kit-fisto-jedi-master.jpg"
+    },
+    {
+        "name": "Master Windu",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/master-windu.jpg"
+    },
+    {
+        "name": "Plo Koon, Jedi Master",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/plo-koon-jedi-master.jpg"
+    },
+    {
+        "name": "Rodian Diplomat",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/rodian-diplomat.jpg"
+    },
+    {
+        "name": "Saesee Tiin, Jedi Master",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/saesee-tiin-jedi-master.jpg"
+    },
+    {
+        "name": "Voolvif Monn",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/voolvif-monn.jpg"
+    },
+    {
+        "name": "Battle Droid Officer",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/battle-droid-officer.jpg"
+    },
+    {
+        "name": "Anakin Skywalker, Force Spirit",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/anakin-skywalker-force-spirit.jpg"
+    },
+    {
+        "name": "General Solo",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/general-solo.jpg"
+    },
+    {
+        "name": "Lando Calrissian, Rebel Leader",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/lando-calrissian-rebel-leader.jpg"
+    },
+    {
+        "name": "Rebel Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/rebel-soldier.jpg"
+    },
+    {
+        "name": "Red Hand Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/red-hand-trooper.jpg"
+    },
+    {
+        "name": "Yoda, Force Spirit",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/yoda-force-spirit.jpg"
+    },
+    {
+        "name": "Arden Lyn",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/arden-lyn.jpg"
+    },
+    {
+        "name": "Darth Vader, Sith Apprentice",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/darth-vader-sith-apprentice.jpg"
+    },
+    {
+        "name": "Ganner Rhysode",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/ganner-rhysode.jpg"
+    },
+    {
+        "name": "Blood Carver Assassin",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/blood-carver-assassin.jpg"
+    },
+    {
+        "name": "Chiss Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/chiss-trooper.jpg"
+    },
+    {
+        "name": "Ewok Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/ewok-warrior.jpg"
+    },
+    {
+        "name": "Gamorrean Bodyguard",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/gamorrean-bodyguard.jpg"
+    },
+    {
+        "name": "Ghhhk",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/ghhhk.jpg"
+    },
+    {
+        "name": "Grievous, Kaleesh Warlord",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/grievous-kaleesh-warlord.jpg"
+    },
+    {
+        "name": "Houjix",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/houjix.jpg"
+    },
+    {
+        "name": "K'lor Slug",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/klor-slug.jpg"
+    },
+    {
+        "name": "Kaminoan Medic",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/kaminoan-medic.jpg"
+    },
+    {
+        "name": "Kintan Strider",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/kintan-strider.jpg"
+    },
+    {
+        "name": "Mantellian Savrip",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/mantellian-savrip.jpg"
+    },
+    {
+        "name": "Molator",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/molator.jpg"
+    },
+    {
+        "name": "Monnok",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/monnok.jpg"
+    },
+    {
+        "name": "Ng'ok",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/ngok.jpg"
+    },
+    {
+        "name": "Sullustan Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/sullustan-scout.jpg"
+    },
+    {
+        "name": "Toydarian Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/toydarian-soldier.jpg"
+    },
+    {
+        "name": "Far Outsider",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/far-outsider.jpg"
+    },
+    {
+        "name": "Taung Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/masters-of-the-force/taung-warrior.jpg"
+    },
+    {
+        "name": "Jedi Watchman",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/jedi-watchman.jpg"
+    },
+    {
+        "name": "Elite Sith Assassin",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/elite-sith-assassin.jpg"
+    },
+    {
+        "name": "ARF Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/arf-trooper.jpg"
+    },
+    {
+        "name": "A'Sharad Hett",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/asharad-hett.jpg"
+    },
+    {
+        "name": "501st Legion Clone Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/501st-legion-clone-commander.jpg"
+    },
+    {
+        "name": "501st Legion Clone Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/501st-legion-clone-trooper.jpg"
+    },
+    {
+        "name": "K'Kruhk, Jedi Master",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/kkruhk-jedi-master.jpg"
+    },
+    {
+        "name": "Merumeru",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/merumeru.jpg"
+    },
+    {
+        "name": "EG-05 Jedi Hunter Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/eg-05-jedi-hunter-droid.jpg"
+    },
+    {
+        "name": "Chewbacca, Fearless Scout",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/chewbacca-fearless-scout.jpg"
+    },
+    {
+        "name": "Dass Jennir",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/dass-jennir.jpg"
+    },
+    {
+        "name": "Ferus Olin",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/ferus-olin.jpg"
+    },
+    {
+        "name": "Jax Pavan",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/jax-pavan.jpg"
+    },
+    {
+        "name": "Kota's Elite Militia",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/kotas-elite-militia.jpg"
+    },
+    {
+        "name": "Kota's Militia",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/kotas-militia.jpg"
+    },
+    {
+        "name": "Emperor's Hand",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/emperors-hand.jpg"
+    },
+    {
+        "name": "501st Legion Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/501st-legion-stormtrooper.jpg"
+    },
+    {
+        "name": "Imperial Engineer",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/imperial-engineer.jpg"
+    },
+    {
+        "name": "Imperial Inquisitor",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/imperial-inquisitor.jpg"
+    },
+    {
+        "name": "Imperial Sovereign Protector",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/imperial-sovereign-protector.jpg"
+    },
+    {
+        "name": "Kir Kanos",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/kir-kanos.jpg"
+    },
+    {
+        "name": "Major Maximilian Veers",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/major-maximilian-veers.jpg"
+    },
+    {
+        "name": "Bomo Greenbark",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/bomo-greenbark.jpg"
+    },
+    {
+        "name": "Bossk, Trandoshan Hunter",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/bossk-trandoshan-hunter.jpg"
+    },
+    {
+        "name": "Boushh, Ubese Hunter",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/boushh-ubese-hunter.jpg"
+    },
+    {
+        "name": "Dengar, Hired Killer",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/dengar-hired-killer.jpg"
+    },
+    {
+        "name": "4-LOM, Droid Mercenary",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/4-lom-droid-mercenary.jpg"
+    },
+    {
+        "name": "Gungan Bounty Hunter",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/gungan-bounty-hunter.jpg"
+    },
+    {
+        "name": "Human Engineer",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/human-engineer.jpg"
+    },
+    {
+        "name": "IG-88 Assassin Droid",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/ig-88-assassin-droid.jpg"
+    },
+    {
+        "name": "Rodian Brute",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/rodian-brute.jpg"
+    },
+    {
+        "name": "Rodian Raider",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/rodian-raider.jpg"
+    },
+    {
+        "name": "Talz Chieftain",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/talz-chieftain.jpg"
+    },
+    {
+        "name": "Talz Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/talz-warrior.jpg"
+    },
+    {
+        "name": "Togorian Soldier",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/togorian-soldier.jpg"
+    },
+    {
+        "name": "Trandoshan Elite Mercenary",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/trandoshan-elite-mercenary.jpg"
+    },
+    {
+        "name": "Trianii Scout",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/trianii-scout.jpg"
+    },
+    {
+        "name": "T'surr",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/tsurr.jpg"
+    },
+    {
+        "name": "Zuckuss, Bounty Hunter",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/zuckuss-bounty-hunter.jpg"
+    },
+    {
+        "name": "Mandalorian Jedi Hunter",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-dark-times/mandalorian-jedi-hunter.jpg"
+    },
+    {
+        "name": "Asajj Ventress, Strike Leader",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/asajj-ventress-strike-leader.jpg"
+    },
+    {
+        "name": "Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/battle-droid.jpg"
+    },
+    {
+        "name": "Battle Droid Sergeant",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/battle-droid-sergeant.jpg"
+    },
+    {
+        "name": "B3 Ultra Battle Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/b3-ultra-battle-droid.jpg"
+    },
+    {
+        "name": "Captain Mar Tuuk",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/captain-mar-tuuk.jpg"
+    },
+    {
+        "name": "Commando Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/commando-droid-6.jpg"
+    },
+    {
+        "name": "Commando Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/commando-droid-7.jpg"
+    },
+    {
+        "name": "Commando Droid Captain",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/commando-droid-captain.jpg"
+    },
+    {
+        "name": "A4-Series Lab Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/a4-series-lab-droid.jpg"
+    },
+    {
+        "name": "General Grievous, Scourge of the Jedi",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/general-grievous-scourge-of-the-jedi.jpg"
+    },
+    {
+        "name": "General Whorm Loathsom",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/general-whorm-loathsom.jpg"
+    },
+    {
+        "name": "IG-100 MagnaGuard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/ig-100-magnaguard.jpg"
+    },
+    {
+        "name": "IG-100 MagnaGuard Artillerist",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/ig-100-magnaguard-artillerist.jpg"
+    },
+    {
+        "name": "LR-57 Combat Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/lr-57-combat-droid.jpg"
+    },
+    {
+        "name": "Wat Tambor, Techno Union Foreman",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/wat-tambor-techno-union-foreman.jpg"
+    },
+    {
+        "name": "Admiral Yularen",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/admiral-yularen.jpg"
+    },
+    {
+        "name": "ARF Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/arf-trooper.jpg"
+    },
+    {
+        "name": "AT-TE Driver",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/at-te-driver.jpg"
+    },
+    {
+        "name": "Captain Argyus",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/captain-argyus.jpg"
+    },
+    {
+        "name": "Clone Trooper Pilot",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/clone-trooper-pilot.jpg"
+    },
+    {
+        "name": "Clone Trooper Sergeant",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/clone-trooper-sergeant.jpg"
+    },
+    {
+        "name": "Clone Trooper with Night Vision",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/clone-trooper-with-night-vision.jpg"
+    },
+    {
+        "name": "Clone Trooper with Repeating Blaster",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/clone-trooper-with-repeating-blaster.jpg"
+    },
+    {
+        "name": "Commander Ahsoka",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/commander-ahsoka.jpg"
+    },
+    {
+        "name": "Commander Cody",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/commander-cody.jpg"
+    },
+    {
+        "name": "Captain Rex, 501st Commander",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/captain-rex-501st-commander.jpg"
+    },
+    {
+        "name": "Elite Senate Guard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/elite-senate-guard.jpg"
+    },
+    {
+        "name": "501st Clone Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/501st-clone-trooper.jpg"
+    },
+    {
+        "name": "General Skywalker",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/general-skywalker.jpg"
+    },
+    {
+        "name": "Jedi Master Kit Fisto",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/jedi-master-kit-fisto.jpg"
+    },
+    {
+        "name": "Nahdar Vebb",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/nahdar-vebb.jpg"
+    },
+    {
+        "name": "Obi-Wan Kenobi, Jedi General",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/obi-wan-kenobi-jedi-general.jpg"
+    },
+    {
+        "name": "Senate Commando",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/senate-commando.jpg"
+    },
+    {
+        "name": "Aqualish Technician",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/aqualish-technician.jpg"
+    },
+    {
+        "name": "Cad Bane",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/cad-bane.jpg"
+    },
+    {
+        "name": "Hondo Ohnaka",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/hondo-ohnaka.jpg"
+    },
+    {
+        "name": "R7 Astromech Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/r7-astromech-droid.jpg"
+    },
+    {
+        "name": "Rodian Trader",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/rodian-trader.jpg"
+    },
+    {
+        "name": "Treadwell Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/treadwell-droid.jpg"
+    },
+    {
+        "name": "Weequay Pirate",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/galaxy-at-war/weequay-pirate.jpg"
+    },
+    {
+        "name": "Jedi Battlemaster",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/jedi-battlemaster.jpg"
+    },
+    {
+        "name": "Jedi Crusader",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/jedi-crusader.jpg"
+    },
+    {
+        "name": "The Jedi Exile",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/the-jedi-exile.jpg"
+    },
+    {
+        "name": "Vodo-Siosk Baas",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/vodo-siosk-baas.jpg"
+    },
+    {
+        "name": "Darth Maul, Sith Apprentice",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/darth-maul-sith-apprentice.jpg"
+    },
+    {
+        "name": "Darth Plagueis",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/darth-plagueis.jpg"
+    },
+    {
+        "name": "Darth Sidious, Sith Master",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/darth-sidious-sith-master.jpg"
+    },
+    {
+        "name": "Krath War Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/krath-war-droid.jpg"
+    },
+    {
+        "name": "Naga Sadow",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/naga-sadow.jpg"
+    },
+    {
+        "name": "Sith Apprentice",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/sith-apprentice.jpg"
+    },
+    {
+        "name": "Sith Lord",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/sith-lord.jpg"
+    },
+    {
+        "name": "Antarian Ranger",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/antarian-ranger.jpg"
+    },
+    {
+        "name": "The Dark Woman",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/the-dark-woman.jpg"
+    },
+    {
+        "name": "Grand Master Yoda",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/grand-master-yoda.jpg"
+    },
+    {
+        "name": "Heavy Clone Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/heavy-clone-trooper.jpg"
+    },
+    {
+        "name": "Master K'Kruhk",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/master-kkruhk.jpg"
+    },
+    {
+        "name": "Qui-Gon Jinn, Jedi Trainer",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/qui-gon-jinn-jedi-trainer.jpg"
+    },
+    {
+        "name": "Youngling",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/youngling.jpg"
+    },
+    {
+        "name": "Rocket Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/rocket-battle-droid.jpg"
+    },
+    {
+        "name": "Disciple of Ragnos",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/disciple-of-ragnos.jpg"
+    },
+    {
+        "name": "Imperial Sentinel",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/imperial-sentinel.jpg"
+    },
+    {
+        "name": "Reborn",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/reborn.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/stormtrooper.jpg"
+    },
+    {
+        "name": "Anakin Solo",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/anakin-solo.jpg"
+    },
+    {
+        "name": "Cade Skywalker, Padawan",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/cade-skywalker-padawan.jpg"
+    },
+    {
+        "name": "Exceptional Jedi Apprentice",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/exceptional-jedi-apprentice.jpg"
+    },
+    {
+        "name": "Grand Master Luke Skywalker",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/grand-master-luke-skywalker.jpg"
+    },
+    {
+        "name": "Kol Skywalker",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/kol-skywalker.jpg"
+    },
+    {
+        "name": "Kyle Katarn, Combat Instructor",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/kyle-katarn-combat-instructor.jpg"
+    },
+    {
+        "name": "Leia Skywalker, Jedi Knight",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/leia-skywalker-jedi-knight.jpg"
+    },
+    {
+        "name": "Crimson Nova Bounty Hunter",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/crimson-nova-bounty-hunter.jpg"
+    },
+    {
+        "name": "Felucian",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/felucian.jpg"
+    },
+    {
+        "name": "HK-50 Assassin Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/hk-50-assassin-droid.jpg"
+    },
+    {
+        "name": "Jensaarai Defender",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/jensaarai-defender.jpg"
+    },
+    {
+        "name": "Peace Brigade Thug",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/peace-brigade-thug.jpg"
+    },
+    {
+        "name": "R4 Astromech Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/r4-astromech-droid.jpg"
+    },
+    {
+        "name": "Death Watch Raider",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/death-watch-raider.jpg"
+    },
+    {
+        "name": "Praetorite Vong Priest",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/praetorite-vong-priest.jpg"
+    },
+    {
+        "name": "Praetorite Vong Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/praetorite-vong-warrior.jpg"
+    },
+    {
+        "name": "Yuuzhan Vong Ossus Guardian",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/jedi-academy/yuuzhan-vong-ossus-guardian.jpg"
+    },
+    {
+        "name": "Bothan Commando",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/bothan-commando.jpg"
+    },
+    {
+        "name": "C-3PO, Ewok Diety",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/c-3po-ewok-diety.jpg"
+    },
+    {
+        "name": "General Crix Madine",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/general-crix-madine.jpg"
+    },
+    {
+        "name": "General Rieekan",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/general-rieekan.jpg"
+    },
+    {
+        "name": "Leia, Bounty Hunter",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/leia-bounty-hunter.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Rebel Commando",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/luke-skywalker-rebel-commando.jpg"
+    },
+    {
+        "name": "Rebel Commando Pathfinder",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/rebel-commando-pathfinder.jpg"
+    },
+    {
+        "name": "Rebel Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/rebel-trooper.jpg"
+    },
+    {
+        "name": "R2-D2 with Extended Sensor",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/r2-d2-with-extended-sensor.jpg"
+    },
+    {
+        "name": "Veteran Rebel Commando",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/veteran-rebel-commando.jpg"
+    },
+    {
+        "name": "Arica",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/arica.jpg"
+    },
+    {
+        "name": "Darth Vader, Legacy of the Force",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/darth-vader-legacy-of-the-force.jpg"
+    },
+    {
+        "name": "Emperor Palpatine on Throne",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/emperor-palpatine-on-throne.jpg"
+    },
+    {
+        "name": "Imperial Dignitary",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/imperial-dignitary.jpg"
+    },
+    {
+        "name": "Moff Jerjerrod",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/moff-jerjerrod.jpg"
+    },
+    {
+        "name": "181st Imperial Pilot",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/181st-imperial-pilot.jpg"
+    },
+    {
+        "name": "Sandtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/sandtrooper.jpg"
+    },
+    {
+        "name": "Sandtrooper Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/sandtrooper-officer.jpg"
+    },
+    {
+        "name": "Scout Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/scout-trooper.jpg"
+    },
+    {
+        "name": "Shock Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/shock-trooper.jpg"
+    },
+    {
+        "name": "Snowtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/snowtrooper.jpg"
+    },
+    {
+        "name": "Snowtrooper Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/snowtrooper-commander.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/stormtrooper.jpg"
+    },
+    {
+        "name": "Thrawn (Mitth'raw'nuruodo)",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/thrawn-(mitthrawnuruodo).jpg"
+    },
+    {
+        "name": "Kyp Durron",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/kyp-durron.jpg"
+    },
+    {
+        "name": "Bacta Tank",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/bacta-tank.jpg"
+    },
+    {
+        "name": "Bespin Guard",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/bespin-guard.jpg"
+    },
+    {
+        "name": "Chiss Mercenary",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/chiss-mercenary.jpg"
+    },
+    {
+        "name": "Dash Rendar, Renegade Smuggler",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/dash-rendar-renegade-smuggler.jpg"
+    },
+    {
+        "name": "Duros Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/duros-scout.jpg"
+    },
+    {
+        "name": "Ewok Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/ewok-scout.jpg"
+    },
+    {
+        "name": "Jawa Scavenger",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/jawa-scavenger.jpg"
+    },
+    {
+        "name": "Lobot, Computer Liaison Officer",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/lobot-computer-liaison-officer.jpg"
+    },
+    {
+        "name": "Logray, Ewok Shaman",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/logray-ewok-shaman.jpg"
+    },
+    {
+        "name": "Mercenary Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/mercenary-commander.jpg"
+    },
+    {
+        "name": "Mouse Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/mouse-droid.jpg"
+    },
+    {
+        "name": "Twi'lek Black Sun Vigo",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/twilek-black-sun-vigo.jpg"
+    },
+    {
+        "name": "Ugnaught Droid Destroyer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/ugnaught-droid-destroyer.jpg"
+    },
+    {
+        "name": "Whiphid Tracker",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/whiphid-tracker.jpg"
+    },
+    {
+        "name": "Xizor",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/imperial-entanglements/xizor.jpg"
+    },
+    {
+        "name": "Darth Sidious, Hologram",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/darth-sidious-hologram.jpg"
+    },
+    {
+        "name": "Ahsoka Tano",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/ahsoka-tano.jpg"
+    },
+    {
+        "name": "Anakin Skywalker Champion of Nelvaan",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/anakin-skywalker-champion-of-nelvaan.jpg"
+    },
+    {
+        "name": "Anakin Skywalker on STAP",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/anakin-skywalker-on-stap.jpg"
+    },
+    {
+        "name": "ARC Trooper Sniper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/arc-trooper-sniper.jpg"
+    },
+    {
+        "name": "Barriss Offee, Jedi Knight",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/barriss-offee-jedi-knight.jpg"
+    },
+    {
+        "name": "Captain Rex",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/captain-rex.jpg"
+    },
+    {
+        "name": "Clone Trooper on Gelagrub",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/clone-trooper-on-gelagrub.jpg"
+    },
+    {
+        "name": "Commander Gree",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/commander-gree.jpg"
+    },
+    {
+        "name": "Elite Clone Trooper Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/elite-clone-trooper-commander.jpg"
+    },
+    {
+        "name": "Elite Clone Trooper Grenadier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/elite-clone-trooper-grenadier.jpg"
+    },
+    {
+        "name": "Galactic Marine",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/galactic-marine.jpg"
+    },
+    {
+        "name": "General Aayla Secura",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/general-aayla-secura.jpg"
+    },
+    {
+        "name": "Heavy Clone Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/heavy-clone-trooper.jpg"
+    },
+    {
+        "name": "Mon Calamari Knight",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/mon-calamari-knight.jpg"
+    },
+    {
+        "name": "Odd Ball",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/odd-ball.jpg"
+    },
+    {
+        "name": "Padme Amidala Senator",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/padme-amidala-senator.jpg"
+    },
+    {
+        "name": "Star Corps Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/star-corps-trooper.jpg"
+    },
+    {
+        "name": "Wookiee Scoundrel",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/wookiee-scoundrel.jpg"
+    },
+    {
+        "name": "Yoda on Kybuck",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/yoda-on-kybuck.jpg"
+    },
+    {
+        "name": "Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/battle-droid-21.jpg"
+    },
+    {
+        "name": "Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/battle-droid-22.jpg"
+    },
+    {
+        "name": "Battle Droid Sniper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/battle-droid-sniper.jpg"
+    },
+    {
+        "name": "Chameleon Droid",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/chameleon-droid.jpg"
+    },
+    {
+        "name": "Durge, Jedi Hunter",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/durge-jedi-hunter.jpg"
+    },
+    {
+        "name": "General Grievous, Droid Army Commander",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/general-grievous-droid-army-commander.jpg"
+    },
+    {
+        "name": "Heavy Super Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/heavy-super-battle-droid.jpg"
+    },
+    {
+        "name": "IG-100 MagnaGuard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/ig-100-magnaguard.jpg"
+    },
+    {
+        "name": "Neimoidian Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/neimoidian-warrior.jpg"
+    },
+    {
+        "name": "Quarren Isolationist",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/quarren-isolationist.jpg"
+    },
+    {
+        "name": "Rocket Battle Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/rocket-battle-droid.jpg"
+    },
+    {
+        "name": "Super Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/super-battle-droid.jpg"
+    },
+    {
+        "name": "Techno Union Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/techno-union-warrior.jpg"
+    },
+    {
+        "name": "Aqualish Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/aqualish-warrior.jpg"
+    },
+    {
+        "name": "Gha Nachkt",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/gha-nachkt.jpg"
+    },
+    {
+        "name": "Human Soldier of Fortune",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/human-soldier-of-fortune.jpg"
+    },
+    {
+        "name": "IG-86 Assassin Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/ig-86-assassin-droid.jpg"
+    },
+    {
+        "name": "Nelvaanian Warrior",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/nelvaanian-warrior.jpg"
+    },
+    {
+        "name": "Trandoshan Scavenger",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/trandoshan-scavenger.jpg"
+    },
+    {
+        "name": "Utapaun Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-clone-wars/utapaun-warrior.jpg"
+    },
+    {
+        "name": "Atton Rand",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/atton-rand.jpg"
+    },
+    {
+        "name": "Bao-Dur",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/bao-dur.jpg"
+    },
+    {
+        "name": "Carth Onasi",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/carth-onasi.jpg"
+    },
+    {
+        "name": "Juggernaut War Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/juggernaut-war-droid.jpg"
+    },
+    {
+        "name": "Master Lucien Draay",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/master-lucien-draay.jpg"
+    },
+    {
+        "name": "Mira",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/mira.jpg"
+    },
+    {
+        "name": "Old Republic Captain",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/old-republic-captain.jpg"
+    },
+    {
+        "name": "Old Republic Guard",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/old-republic-guard.jpg"
+    },
+    {
+        "name": "Squint",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/squint.jpg"
+    },
+    {
+        "name": "Visas Marr",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/visas-marr.jpg"
+    },
+    {
+        "name": "Wookiee Elite Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/wookiee-elite-warrior.jpg"
+    },
+    {
+        "name": "Wookiee Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/wookiee-trooper.jpg"
+    },
+    {
+        "name": "Darth Malak, Dark Lord of the Sith",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/darth-malak-dark-lord-of-the-sith.jpg"
+    },
+    {
+        "name": "Darth Sion",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/darth-sion.jpg"
+    },
+    {
+        "name": "Elite Sith Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/elite-sith-trooper.jpg"
+    },
+    {
+        "name": "Sith Assassin",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/sith-assassin.jpg"
+    },
+    {
+        "name": "Sith Guard",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/sith-guard.jpg"
+    },
+    {
+        "name": "Sith Heavy Assault Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/sith-heavy-assault-droid.jpg"
+    },
+    {
+        "name": "Sith Marauder",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/sith-marauder.jpg"
+    },
+    {
+        "name": "Sith Operative",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/sith-scoundrel-operative.jpg"
+    },
+    {
+        "name": "Sith Trooper Captain",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/sith-trooper-captain.jpg"
+    },
+    {
+        "name": "Captain Panaka",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/captain-panaka.jpg"
+    },
+    {
+        "name": "Captain Tarpals",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/captain-tarpals.jpg"
+    },
+    {
+        "name": "Gungan Artillerist",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/gungan-artillerist.jpg"
+    },
+    {
+        "name": "Gungan Shieldbearer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/gungan-shieldbearer.jpg"
+    },
+    {
+        "name": "Gungan Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/gungan-soldier.jpg"
+    },
+    {
+        "name": "Jar Jar Binks",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/jar-jar-binks.jpg"
+    },
+    {
+        "name": "Obi-Wan Kenobi, Jedi Padawan",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/obi-wan-kenobi-jedi-padawan.jpg"
+    },
+    {
+        "name": "Supreme Chancellor Palpatine",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/supreme-chancellor-palpatine.jpg"
+    },
+    {
+        "name": "Han Solo, Smuggler",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/han-solo-smuggler.jpg"
+    },
+    {
+        "name": "Leia Organa, Senator",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/leia-organa-senator.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Jedi",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/luke-skywalker-jedi.jpg"
+    },
+    {
+        "name": "Darth Vader, Scourge of the Jedi",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/darth-vader-scourge-of-the-jedi.jpg"
+    },
+    {
+        "name": "RA-7 Death Star Protocol Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/ra-7-death-star-protocol-droid.jpg"
+    },
+    {
+        "name": "General Wedge Antilles",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/general-wedge-antilles.jpg"
+    },
+    {
+        "name": "ASN Assassin Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/asn-assassin-droid.jpg"
+    },
+    {
+        "name": "Boma",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/boma.jpg"
+    },
+    {
+        "name": "Czerka Scientist",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/czerka-scientist.jpg"
+    },
+    {
+        "name": "Echani Handmaiden",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/echani-handmaiden.jpg"
+    },
+    {
+        "name": "GenoHaradan Assassin",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/genoharadan-assassin.jpg"
+    },
+    {
+        "name": "Jarael",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/jarael.jpg"
+    },
+    {
+        "name": "Jawa Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/jawa-scout.jpg"
+    },
+    {
+        "name": "Jolee Bindo",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/jolee-bindo.jpg"
+    },
+    {
+        "name": "Juhani",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/juhani.jpg"
+    },
+    {
+        "name": "Kreia",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/kreia.jpg"
+    },
+    {
+        "name": "Massiff",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/massiff.jpg"
+    },
+    {
+        "name": "Mission Vao",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/mission-vao.jpg"
+    },
+    {
+        "name": "Rakghoul",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/rakghoul.jpg"
+    },
+    {
+        "name": "Shyrack",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/shyrack.jpg"
+    },
+    {
+        "name": "T1 Series Bulk Loader Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/t1-series-bulk-loader-droid.jpg"
+    },
+    {
+        "name": "T3-M4",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/t3-m4.jpg"
+    },
+    {
+        "name": "Tusken Raider Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/tusken-raider-scout.jpg"
+    },
+    {
+        "name": "Zaalbar",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/zaalbar.jpg"
+    },
+    {
+        "name": "Zayne Carrick",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/zayne-carrick.jpg"
+    },
+    {
+        "name": "Mandalore the Ultimate",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/mandalore-the-ultimate.jpg"
+    },
+    {
+        "name": "Mandalorian Captain",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/mandalorian-captain.jpg"
+    },
+    {
+        "name": "Mandalorian Commando",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/mandalorian-commando.jpg"
+    },
+    {
+        "name": "Mandalorian Marauder",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/mandalorian-marauder.jpg"
+    },
+    {
+        "name": "Mandalorian Quartermaster",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/mandalorian-quartermaster.jpg"
+    },
+    {
+        "name": "Mandalorian Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/knights-of-the-old-republic/mandalorian-scout.jpg"
+    },
+    {
+        "name": "Nomi Sunrider",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/nomi-sunrider.jpg"
+    },
+    {
+        "name": "Old Republic Recruit",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/old-republic-recruit.jpg"
+    },
+    {
+        "name": "Old Republic Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/old-republic-scout.jpg"
+    },
+    {
+        "name": "Darth Caedus",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/darth-caedus.jpg"
+    },
+    {
+        "name": "Darth Krayt",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/darth-krayt.jpg"
+    },
+    {
+        "name": "Darth Nihl",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/darth-nihl.jpg"
+    },
+    {
+        "name": "Darth Talon",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/darth-talon.jpg"
+    },
+    {
+        "name": "Lumiya, the Dark Lady",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/lumiya-the-dark-lady.jpg"
+    },
+    {
+        "name": "Republic Commando Training Sergeant",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/republic-commando-training-sergeant.jpg"
+    },
+    {
+        "name": "Darth Tyranus, Legacy of the Dark Side",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/darth-tyranus-legacy-of-the-dark-side.jpg"
+    },
+    {
+        "name": "Bothan Noble",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/bothan-noble.jpg"
+    },
+    {
+        "name": "Deena Shan",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/deena-shan.jpg"
+    },
+    {
+        "name": "Elite Rebel Commando",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/elite-rebel-commando.jpg"
+    },
+    {
+        "name": "General Dodonna",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/general-dodonna.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Legacy of the Light Side",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/luke-skywalker-legacy-of-the-light-side.jpg"
+    },
+    {
+        "name": "Rebel Honor Guard",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/rebel-honor-guard.jpg"
+    },
+    {
+        "name": "Twi'lek Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/twilek-scout.jpg"
+    },
+    {
+        "name": "Antares Draco",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/antares-draco.jpg"
+    },
+    {
+        "name": "Emperor Roan Fel",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/emperor-roan-fel.jpg"
+    },
+    {
+        "name": "Imperial Knight",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/imperial-knight-20.jpg"
+    },
+    {
+        "name": "Imperial Knight",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/imperial-knight-21.jpg"
+    },
+    {
+        "name": "Imperial Pilot",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/imperial-pilot.jpg"
+    },
+    {
+        "name": "Imperial Security Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/imperial-security-officer.jpg"
+    },
+    {
+        "name": "Jagged Fel",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/jagged-fel.jpg"
+    },
+    {
+        "name": "Marasiah Fel",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/marasiah-fel.jpg"
+    },
+    {
+        "name": "Moff Morlish Veed",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/moff-morlish-veed.jpg"
+    },
+    {
+        "name": "Moff Nyna Calixte",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/moff-nyna-calixte.jpg"
+    },
+    {
+        "name": "Noghri Commando",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/noghri-commando.jpg"
+    },
+    {
+        "name": "Shadow Stormtrooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/shadow-stormtrooper.jpg"
+    },
+    {
+        "name": "Corellian Security Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/corellian-security-officer.jpg"
+    },
+    {
+        "name": "Galactic Alliance Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/galactic-alliance-scout.jpg"
+    },
+    {
+        "name": "Galactic Alliance Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/galactic-alliance-trooper.jpg"
+    },
+    {
+        "name": "Han Solo, Galactic Hero",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/han-solo-galactic-hero.jpg"
+    },
+    {
+        "name": "Kyle Katarn, Jedi Battlemaster",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/kyle-katarn-jedi-battlemaster.jpg"
+    },
+    {
+        "name": "Leia Organa Solo, Jedi Knight",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/leia-organa-solo-jedi-knight.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Force Spirit",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/luke-skywalker-force-spirit.jpg"
+    },
+    {
+        "name": "Mara Jade Skywalker",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/mara-jade-skywalker.jpg"
+    },
+    {
+        "name": "Shado Vao",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/shado-vao.jpg"
+    },
+    {
+        "name": "Wolf Sazen",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/wolf-sazen.jpg"
+    },
+    {
+        "name": "Cade Skywalker, Bounty Hunter",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/cade-skywalker-bounty-hunter.jpg"
+    },
+    {
+        "name": "Deliah Blue",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/deliah-blue.jpg"
+    },
+    {
+        "name": "Dug Fringer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/dug-fringer.jpg"
+    },
+    {
+        "name": "Duros Scoundrel",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/duros-scoundrel.jpg"
+    },
+    {
+        "name": "Gotal Mercenary",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/gotal-mercenary.jpg"
+    },
+    {
+        "name": "Guard Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/guard-droid.jpg"
+    },
+    {
+        "name": "Human Bodyguard",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/human-bodyguard.jpg"
+    },
+    {
+        "name": "Human Scoundrel",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/human-scoundrel.jpg"
+    },
+    {
+        "name": "Human Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/human-scout.jpg"
+    },
+    {
+        "name": "Jariah Syn",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/jariah-syn.jpg"
+    },
+    {
+        "name": "Kel Dor Bounty Hunter",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/kel-dor-bounty-hunter.jpg"
+    },
+    {
+        "name": "Rodian Blaster-for-Hire",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/rodian-blaster-for-hire.jpg"
+    },
+    {
+        "name": "Trandoshan Mercenary",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/trandoshan-mercenary.jpg"
+    },
+    {
+        "name": "Boba Fett, Mercenary Commander",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/boba-fett-mercenary-commander.jpg"
+    },
+    {
+        "name": "Canderous Ordo",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/canderous-ordo.jpg"
+    },
+    {
+        "name": "Mandalorian Gunslinger",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/mandalorian-gunslinger.jpg"
+    },
+    {
+        "name": "Mandalorian Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/mandalorian-trooper.jpg"
+    },
+    {
+        "name": "Yuuzhan Vong Elite Warrior",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/yuuzhan-vong-elite-warrior.jpg"
+    },
+    {
+        "name": "Yuuzhan Vong Jedi Hunter",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/yuuzhan-vong-jedi-hunter.jpg"
+    },
+    {
+        "name": "Yuuzhan Vong Shaper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/yuuzhan-vong-shaper.jpg"
+    },
+    {
+        "name": "Yuuzhan Vong Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/legacy-of-the-force/yuuzhan-vong-warrior.jpg"
+    },
+    {
+        "name": "Darth Revan",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/darth-revan.jpg"
+    },
+    {
+        "name": "Kazdan Paratus",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/kazdan-paratus.jpg"
+    },
+    {
+        "name": "Shaak Ti, Jedi Master",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/shaak-ti-jedi-master.jpg"
+    },
+    {
+        "name": "Chewbacca of Hoth",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/chewbacca-of-hoth.jpg"
+    },
+    {
+        "name": "Elite Hoth Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/elite-hoth-trooper.jpg"
+    },
+    {
+        "name": "Golan Arms DF.9 Anti-infantry Battery",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/golan-arms-df9-anti-infantry-battery.jpg"
+    },
+    {
+        "name": "Han Solo in Carbonite",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/han-solo-in-carbonite.jpg"
+    },
+    {
+        "name": "Han Solo of Hoth",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/han-solo-of-hoth.jpg"
+    },
+    {
+        "name": "Hoth Trooper Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/hoth-trooper-officer.jpg"
+    },
+    {
+        "name": "Hoth Trooper with Repeating Blaster Cannon",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/hoth-trooper-with-repeating-blaster-cannon.jpg"
+    },
+    {
+        "name": "Juno Eclipse",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/juno-eclipse.jpg"
+    },
+    {
+        "name": "K-3PO",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/k-3po.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Hoth Pilot Unleashed",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/luke-skywalker-hoth-pilot-unleashed.jpg"
+    },
+    {
+        "name": "Luke Skywalker and Yoda",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/luke-skywalker-and-yoda.jpg"
+    },
+    {
+        "name": "Luke's Snowspeeder",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/lukes-snowspeeder.jpg"
+    },
+    {
+        "name": "Master Kota",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/master-kota.jpg"
+    },
+    {
+        "name": "Mon Calamari Medic",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/mon-calamari-medic.jpg"
+    },
+    {
+        "name": "Obi-Wan Kenobi, Unleashed",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/obi-wan-kenobi-unleashed.jpg"
+    },
+    {
+        "name": "Princess Leia of Cloud City",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/princess-leia-of-cloud-city.jpg"
+    },
+    {
+        "name": "Rebel Marksman",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/rebel-marksman.jpg"
+    },
+    {
+        "name": "Rebel Troop Cart",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/rebel-troop-cart.jpg"
+    },
+    {
+        "name": "Rebel Trooper on Tauntaun",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/rebel-trooper-on-tauntaun.jpg"
+    },
+    {
+        "name": "Rebel Vanguard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/rebel-vanguard.jpg"
+    },
+    {
+        "name": "2-1B",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/2-1b.jpg"
+    },
+    {
+        "name": "Vader's Apprentice, Redeemed",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/vaders-apprentice-redeemed.jpg"
+    },
+    {
+        "name": "Verpine Tech",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/verpine-tech.jpg"
+    },
+    {
+        "name": "Wedge Antilles, Red 2",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/wedge-antilles-red-2.jpg"
+    },
+    {
+        "name": "Wookiee Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/wookiee-warrior.jpg"
+    },
+    {
+        "name": "Admiral Ozzel",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/admiral-ozzel.jpg"
+    },
+    {
+        "name": "AT-AT Driver",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/at-at-driver.jpg"
+    },
+    {
+        "name": "Darktrooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/darktrooper.jpg"
+    },
+    {
+        "name": "Darth Vader, Unleashed",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/darth-vader-unleashed.jpg"
+    },
+    {
+        "name": "Emperor's Shadow Guard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/emperors-shadow-guard.jpg"
+    },
+    {
+        "name": "Evo Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/evo-trooper.jpg"
+    },
+    {
+        "name": "Felucian Stormtrooper Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/felucian-stormtrooper-officer.jpg"
+    },
+    {
+        "name": "Gotal Imperial Assassin",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/gotal-imperial-assassin.jpg"
+    },
+    {
+        "name": "Imperial Navy Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/imperial-navy-trooper.jpg"
+    },
+    {
+        "name": "Raxus Prime Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/raxus-prime-trooper.jpg"
+    },
+    {
+        "name": "Snowtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/snowtrooper.jpg"
+    },
+    {
+        "name": "Star Destroyer Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/star-destroyer-officer.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/stormtrooper.jpg"
+    },
+    {
+        "name": "TIE Crawler",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/tie-crawler.jpg"
+    },
+    {
+        "name": "Vader's Apprentice, Unleashed",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/vaders-apprentice-unleashed.jpg"
+    },
+    {
+        "name": "Wookiee Hunter AT-ST",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/wookiee-hunter-at-st.jpg"
+    },
+    {
+        "name": "Garm Bel Iblis",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/garm-bel-iblis.jpg"
+    },
+    {
+        "name": "Amanin Scout",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/amanin-scout.jpg"
+    },
+    {
+        "name": "Boba Fett, Mercenary",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/boba-fett-mercenary.jpg"
+    },
+    {
+        "name": "Caamasi Noble",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/caamasi-noble.jpg"
+    },
+    {
+        "name": "Cloud Car Pilot",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/cloud-car-pilot.jpg"
+    },
+    {
+        "name": "Felucian Warrior on Rancor",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/felucian-warrior-on-rancor.jpg"
+    },
+    {
+        "name": "Junk Golem",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/junk-golem.jpg"
+    },
+    {
+        "name": "Knobby White Spider",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/knobby-white-spider.jpg"
+    },
+    {
+        "name": "Maris Brood",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/maris-brood.jpg"
+    },
+    {
+        "name": "Muun Tactics Broker",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/muun-tactics-broker.jpg"
+    },
+    {
+        "name": "Mynock",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/mynock.jpg"
+    },
+    {
+        "name": "Proxy",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/proxy.jpg"
+    },
+    {
+        "name": "Telosian Tank Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/telosian-tank-droid.jpg"
+    },
+    {
+        "name": "Uggernaut",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/uggernaut.jpg"
+    },
+    {
+        "name": "Ugnaught Boss",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/ugnaught-boss.jpg"
+    },
+    {
+        "name": "Ugnaught Tech",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/the-force-unleashed/ugnaught-tech.jpg"
+    },
+    {
+        "name": "Chewbacca",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/chewbacca.jpg"
+    },
+    {
+        "name": "Elite Hoth Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/elite-hoth-trooper.jpg"
+    },
+    {
+        "name": "Han Solo, Scoundrel",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/han-solo-scoundrel.jpg"
+    },
+    {
+        "name": "Luke Skywalker Of Dagobah",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/luke-skywalker-of-dagobah.jpg"
+    },
+    {
+        "name": "Princess Leia, Rebel Hero",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/princess-leia-rebel-hero.jpg"
+    },
+    {
+        "name": "R2-D2",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/r2-d2.jpg"
+    },
+    {
+        "name": "Rebel Captain",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/rebel-captain.jpg"
+    },
+    {
+        "name": "Rebel Heavy Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/rebel-heavy-trooper.jpg"
+    },
+    {
+        "name": "Rebel Pilot",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/rebel-pilot.jpg"
+    },
+    {
+        "name": "Rebel Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/rebel-trooper-10.jpg"
+    },
+    {
+        "name": "Rebel Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/rebel-trooper-11.jpg"
+    },
+    {
+        "name": "Darth Vader, Champion of the Sith",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/darth-vader-champion-of-the-sith.jpg"
+    },
+    {
+        "name": "Elite Snowtrooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/elite-snowtrooper.jpg"
+    },
+    {
+        "name": "Emperor Palpatine",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/emperor-palpatine.jpg"
+    },
+    {
+        "name": "General Veers",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/general-veers.jpg"
+    },
+    {
+        "name": "Grand Moff Tarkin",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/grand-moff-tarkin.jpg"
+    },
+    {
+        "name": "Heavy Stormtrooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/heavy-stormtrooper.jpg"
+    },
+    {
+        "name": "Imperial Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/imperial-officer.jpg"
+    },
+    {
+        "name": "Mara Jade, Emperor's Hand",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/mara-jade-emperors-hand.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/stormtrooper-20.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/stormtrooper-21.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/stormtrooper-22.jpg"
+    },
+    {
+        "name": "Boba Fett",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/boba-fett.jpg"
+    },
+    {
+        "name": "Rodian Hunt Master",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebels-and-imperials/rodian-hunt-master.jpg"
+    },
+    {
+        "name": "Quinlan Vos, Infiltrator",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/quinlan-vos-infiltrator.jpg"
+    },
+    {
+        "name": "Aurra Sing, Jedi Hunter",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/aurra-sing-jedi-hunter.jpg"
+    },
+    {
+        "name": "Biggs Darklighter",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/biggs-darklighter.jpg"
+    },
+    {
+        "name": "Chewbacca, Enraged Wookiee",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/chewbacca-enraged-wookiee.jpg"
+    },
+    {
+        "name": "C-3PO and R2-D2",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/c-3po-and-r2-d2.jpg"
+    },
+    {
+        "name": "Elite Hoth Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/elite-hoth-trooper.jpg"
+    },
+    {
+        "name": "Han Solo, Rogue",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/han-solo-rogue.jpg"
+    },
+    {
+        "name": "Han Solo in Stormtrooper Armor",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/han-solo-in-stormtrooper-armor.jpg"
+    },
+    {
+        "name": "Han Solo on Tauntaun",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/han-solo-on-tauntaun.jpg"
+    },
+    {
+        "name": "Ithorian Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/ithorian-commander.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Champion of the Force",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/luke-skywalker-champion-of-the-force.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Hero of Yavin",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/luke-skywalker-hero-of-yavin.jpg"
+    },
+    {
+        "name": "Luke's Landspeeder",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/lukes-landspeeder.jpg"
+    },
+    {
+        "name": "Mon Calamari Tech Specialist",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/mon-calamari-tech-specialist.jpg"
+    },
+    {
+        "name": "Obi-Wan Kenobi, Jedi Spirit",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/obi-wan-kenobi-jedi-spirit.jpg"
+    },
+    {
+        "name": "Princess Leia",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/princess-leia.jpg"
+    },
+    {
+        "name": "Rebel Commando",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/rebel-commando.jpg"
+    },
+    {
+        "name": "Rebel Commando Strike Leader",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/rebel-commando-strike-leader.jpg"
+    },
+    {
+        "name": "Rebel Leader",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/rebel-leader.jpg"
+    },
+    {
+        "name": "Rebel Pilot",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/rebel-pilot.jpg"
+    },
+    {
+        "name": "Rebel Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/rebel-trooper.jpg"
+    },
+    {
+        "name": "Twi'lek Rebel Agent",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/twilek-rebel-agent.jpg"
+    },
+    {
+        "name": "Wookiee Freedom Fighter",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/wookiee-freedom-fighter.jpg"
+    },
+    {
+        "name": "Admiral Piett",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/admiral-piett.jpg"
+    },
+    {
+        "name": "Darth Vader, Imperial Commander",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/darth-vader-imperial-commander.jpg"
+    },
+    {
+        "name": "Death Star Gunner",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/death-star-gunner.jpg"
+    },
+    {
+        "name": "Death Star Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/death-star-trooper.jpg"
+    },
+    {
+        "name": "Heavy Stormtrooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/heavy-stormtrooper.jpg"
+    },
+    {
+        "name": "Imperial Governor Tarkin",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/imperial-governor-tarkin.jpg"
+    },
+    {
+        "name": "Imperial Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/imperial-officer.jpg"
+    },
+    {
+        "name": "Scout Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/scout-trooper.jpg"
+    },
+    {
+        "name": "Snowtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/snowtrooper.jpg"
+    },
+    {
+        "name": "Storm Commando",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/storm-commando.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/stormtrooper.jpg"
+    },
+    {
+        "name": "Stormtrooper Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/stormtrooper-officer.jpg"
+    },
+    {
+        "name": "Stormtrooper on Repulsor Sled",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/stormtrooper-on-repulsor-sled.jpg"
+    },
+    {
+        "name": "Mara Jade, Jedi",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/mara-jade-jedi.jpg"
+    },
+    {
+        "name": "Boba Fett, Enforcer",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/boba-fett-enforcer.jpg"
+    },
+    {
+        "name": "Chadra-Fan Pickpocket",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/chadra-fan-pickpocket.jpg"
+    },
+    {
+        "name": "Duros Explorer",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/duros-explorer.jpg"
+    },
+    {
+        "name": "Ephant Mon",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/ephant-mon.jpg"
+    },
+    {
+        "name": "Ewok Hang Glider",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/ewok-hang-glider.jpg"
+    },
+    {
+        "name": "Ewok Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/ewok-warrior.jpg"
+    },
+    {
+        "name": "Gamorrean Guard",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/gamorrean-guard.jpg"
+    },
+    {
+        "name": "Human Force Adept",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/human-force-adept.jpg"
+    },
+    {
+        "name": "Jabba, Crime Lord",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/jabba-crime-lord.jpg"
+    },
+    {
+        "name": "Jawa on Ronto",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/jawa-on-ronto.jpg"
+    },
+    {
+        "name": "Jawa Trader",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/jawa-trader.jpg"
+    },
+    {
+        "name": "Lando Calrissian, Dashing Scoundrel",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/lando-calrissian-dashing-scoundrel.jpg"
+    },
+    {
+        "name": "Nikto Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/nikto-soldier.jpg"
+    },
+    {
+        "name": "Rampaging Wampa",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/rampaging-wampa.jpg"
+    },
+    {
+        "name": "Rodian Scoundrel",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/rodian-scoundrel.jpg"
+    },
+    {
+        "name": "Snivvian Fringer",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/snivvian-fringer.jpg"
+    },
+    {
+        "name": "Talz Spy",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/talz-spy.jpg"
+    },
+    {
+        "name": "Transdoshan Mercenary",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/transdoshan-mercenary.jpg"
+    },
+    {
+        "name": "Tusken Raider",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/tusken-raider.jpg"
+    },
+    {
+        "name": "Wicket",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/wicket.jpg"
+    },
+    {
+        "name": "Advance Agent, Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/advance-agent-officer.jpg"
+    },
+    {
+        "name": "Advance Scout",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/advance-scout.jpg"
+    },
+    {
+        "name": "Yomin Carr",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/alliance-and-empire/yomin-carr.jpg"
+    },
+    {
+        "name": "ISP Speeder",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/isp-speeder.jpg"
+    },
+    {
+        "name": "Commerce Guild Homing Spider Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/commerce-guild-homing-spider-droid.jpg"
+    },
+    {
+        "name": "Corporate Alliance Tank Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/corporate-alliance-tank-droid.jpg"
+    },
+    {
+        "name": "Droid Starfighter in Walking Mode",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/droid-starfighter-in-walking-mode.jpg"
+    },
+    {
+        "name": "Huge Crab Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/huge-crab-droid.jpg"
+    },
+    {
+        "name": "Chewbacca with C-3PO",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/chewbacca-with-c-3po.jpg"
+    },
+    {
+        "name": "Han Solo, Scoundrel",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/han-solo-scoundrel.jpg"
+    },
+    {
+        "name": "Luke Skywalker of Dagobah",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/luke-skywalker-of-dagobah.jpg"
+    },
+    {
+        "name": "Princess Leia, Hoth Commander",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/princess-leia-hoth-commander.jpg"
+    },
+    {
+        "name": "Rebel Captain",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/rebel-captain.jpg"
+    },
+    {
+        "name": "Rebel Heavy Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/rebel-heavy-trooper.jpg"
+    },
+    {
+        "name": "Rebel Snowspeeder",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/rebel-snowspeeder.jpg"
+    },
+    {
+        "name": "Lord Vader",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/lord-vader.jpg"
+    },
+    {
+        "name": "Talon Karrde",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/talon-karrde.jpg"
+    },
+    {
+        "name": "Aqualish Assassin",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/aqualish-assassin.jpg"
+    },
+    {
+        "name": "Ayy Vida",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/ayy-vida.jpg"
+    },
+    {
+        "name": "Bib Fortuna",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/bib-fortuna.jpg"
+    },
+    {
+        "name": "Bith Black Sun Vigo",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/bith-black-sun-vigo.jpg"
+    },
+    {
+        "name": "Boba Fett, Bounty Hunter",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/boba-fett-bounty-hunter.jpg"
+    },
+    {
+        "name": "BoShek",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/boshek.jpg"
+    },
+    {
+        "name": "Bossk, Bounty Hunter",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/bossk-bounty-hunter.jpg"
+    },
+    {
+        "name": "Boushh",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/boushh.jpg"
+    },
+    {
+        "name": "Calo Nord",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/calo-nord.jpg"
+    },
+    {
+        "name": "Corellian Pirate",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/corellian-pirate.jpg"
+    },
+    {
+        "name": "Dannik Jerriko",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/dannik-jerriko.jpg"
+    },
+    {
+        "name": "Dark Hellion Marauder on Swoop Bike",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/dark-hellion-marauder-on-swoop-bike.jpg"
+    },
+    {
+        "name": "Dark Hellion Swoop Gang Member",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/dark-hellion-swoop-gang-member.jpg"
+    },
+    {
+        "name": "Defel Spy",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/defel-spy.jpg"
+    },
+    {
+        "name": "Dengar, Bounty Hunter",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/dengar-bounty-hunter.jpg"
+    },
+    {
+        "name": "Djas Puhr",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/djas-puhr.jpg"
+    },
+    {
+        "name": "E522 Assassin Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/e522-assassin-droid.jpg"
+    },
+    {
+        "name": "4-LOM, Bounty Hunter",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/4-lom-bounty-hunter.jpg"
+    },
+    {
+        "name": "Gamorrean Thug",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/gamorrean-thug.jpg"
+    },
+    {
+        "name": "Garindan",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/garindan.jpg"
+    },
+    {
+        "name": "Human Blaster-For-Hire",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/human-blaster-for-hire.jpg"
+    },
+    {
+        "name": "IG-88, Bounty Hunter",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/ig-88-bounty-hunter.jpg"
+    },
+    {
+        "name": "Jango Fett, Bounty Hunter",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/jango-fett-bounty-hunter.jpg"
+    },
+    {
+        "name": "Klatoonian Hunter",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/klatoonian-hunter.jpg"
+    },
+    {
+        "name": "Komari Vosa",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/komari-vosa.jpg"
+    },
+    {
+        "name": "Mistryl Shadow Guard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/mistryl-shadow-guard.jpg"
+    },
+    {
+        "name": "Mustafarian Flea Rider",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/mustafarian-flea-rider.jpg"
+    },
+    {
+        "name": "Mustafarian Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/mustafarian-soldier.jpg"
+    },
+    {
+        "name": "Nikto Gunner on Desert Skiff",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/nikto-gunner-on-desert-skiff.jpg"
+    },
+    {
+        "name": "Nym",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/nym.jpg"
+    },
+    {
+        "name": "Quarren Bounty Hunter",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/quarren-bounty-hunter.jpg"
+    },
+    {
+        "name": "Rodian Hunt Master",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/rodian-hunt-master.jpg"
+    },
+    {
+        "name": "Tamtel Skreej (Lando Calrissian)",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/tamtel-skreej-lando-calrissian.jpg"
+    },
+    {
+        "name": "Tusken Raider Sniper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/tusken-raider-sniper.jpg"
+    },
+    {
+        "name": "Utapauan on Dactillion",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/utapauan-on-dactillion.jpg"
+    },
+    {
+        "name": "Weequay Leader",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/weequay-leader.jpg"
+    },
+    {
+        "name": "Weequay Thug",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/weequay-thug.jpg"
+    },
+    {
+        "name": "Young Krayt Dragon",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/young-krayt-dragon.jpg"
+    },
+    {
+        "name": "Zuckuss",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/zuckuss.jpg"
+    },
+    {
+        "name": "Basilisk War Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/basilisk-war-droid.jpg"
+    },
+    {
+        "name": "Mandalore the Indomitable",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/mandalore-the-indomitable.jpg"
+    },
+    {
+        "name": "Mandalorian Blademaster",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/mandalorian-blademaster.jpg"
+    },
+    {
+        "name": "Mandalorian Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/mandalorian-commander.jpg"
+    },
+    {
+        "name": "Mandalorian Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/mandalorian-soldier.jpg"
+    },
+    {
+        "name": "Mandalorian Supercommando",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/mandalorian-supercommando.jpg"
+    },
+    {
+        "name": "Mandalorian Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/bounty-hunters/mandalorian-warrior.jpg"
+    },
+    {
+        "name": "Bastila Shan",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/bastila-shan.jpg"
+    },
+    {
+        "name": "Jedi Consular",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/jedi-consular.jpg"
+    },
+    {
+        "name": "Jedi Guardian",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/jedi-guardian.jpg"
+    },
+    {
+        "name": "Jedi Sentinel",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/jedi-sentinel.jpg"
+    },
+    {
+        "name": "Old Republic Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/old-republic-commander.jpg"
+    },
+    {
+        "name": "Old Republic Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/old-republic-soldier.jpg"
+    },
+    {
+        "name": "Dark Jedi",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/dark-jedi.jpg"
+    },
+    {
+        "name": "Dark Jedi Master",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/dark-jedi-master.jpg"
+    },
+    {
+        "name": "Dark Jedi Enforcer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/dark-jedi-enforcer.jpg"
+    },
+    {
+        "name": "Darth Bane",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/darth-bane.jpg"
+    },
+    {
+        "name": "Darth Malak",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/darth-malak.jpg"
+    },
+    {
+        "name": "Darth Nihilus",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/darth-nihilus.jpg"
+    },
+    {
+        "name": "Exar Kun",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/exar-kun.jpg"
+    },
+    {
+        "name": "Massassi Sith Mutant",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/massassi-sith-mutant.jpg"
+    },
+    {
+        "name": "Sith Assault Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/sith-assault-droid.jpg"
+    },
+    {
+        "name": "Sith Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/sith-trooper-16.jpg"
+    },
+    {
+        "name": "Sith Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/sith-trooper-17.jpg"
+    },
+    {
+        "name": "Sith Trooper Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/sith-trooper-commander.jpg"
+    },
+    {
+        "name": "Ulic Qel-Droma",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/ulic-qel-droma.jpg"
+    },
+    {
+        "name": "Barriss Offee",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/barriss-offee.jpg"
+    },
+    {
+        "name": "Clone Commander Bacara",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/clone-commander-bacara.jpg"
+    },
+    {
+        "name": "Clone Commander Cody",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/clone-commander-cody.jpg"
+    },
+    {
+        "name": "Clone Commander Gree",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/clone-commander-gree.jpg"
+    },
+    {
+        "name": "Depa Billaba",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/depa-billaba.jpg"
+    },
+    {
+        "name": "Even Piell",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/even-piell.jpg"
+    },
+    {
+        "name": "General Windu",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/general-windu.jpg"
+    },
+    {
+        "name": "Jedi Padawan",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/jedi-padawan.jpg"
+    },
+    {
+        "name": "Jedi Weapon Master",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/jedi-weapon-master.jpg"
+    },
+    {
+        "name": "Kashyyyk Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/kashyyyk-trooper.jpg"
+    },
+    {
+        "name": "Mas Amedda",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/mas-amedda.jpg"
+    },
+    {
+        "name": "Queen Amidala",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/queen-amidala.jpg"
+    },
+    {
+        "name": "Qui-Gon Jinn, Jedi Master",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/qui-gon-jinn-jedi-master.jpg"
+    },
+    {
+        "name": "Republic Commando - Boss",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/republic-commando-boss.jpg"
+    },
+    {
+        "name": "Republic Commando - Fixer",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/republic-commando-fixer.jpg"
+    },
+    {
+        "name": "Republic Commando - Scorch",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/republic-commando-scorch.jpg"
+    },
+    {
+        "name": "Republic Commando - Sev",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/republic-commando-sev.jpg"
+    },
+    {
+        "name": "Saleucami Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/saleucami-trooper.jpg"
+    },
+    {
+        "name": "Utapau Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/utapau-trooper.jpg"
+    },
+    {
+        "name": "Crab Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/crab-droid.jpg"
+    },
+    {
+        "name": "Darth Maul, Champion of the Sith",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/darth-maul-champion-of-the-sith.jpg"
+    },
+    {
+        "name": "Darth Sidious, Dark Lord of the Sith",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/darth-sidious-dark-lord-of-the-sith.jpg"
+    },
+    {
+        "name": "Octuptarra Droid",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/octuptarra-droid.jpg"
+    },
+    {
+        "name": "Hoth Trooper with Atgar Cannon",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/hoth-trooper-with-atgar-cannon.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Young Jedi",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/luke-skywalker-young-jedi.jpg"
+    },
+    {
+        "name": "Yoda of Dagobah",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/yoda-of-dagobah.jpg"
+    },
+    {
+        "name": "Coruscant Guard",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/coruscant-guard.jpg"
+    },
+    {
+        "name": "Dark Trooper Phase I",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/dark-trooper-phase-i.jpg"
+    },
+    {
+        "name": "Dark Trooper Phase II",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/dark-trooper-phase-ii.jpg"
+    },
+    {
+        "name": "Darth Vader, Champion of the Sith",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/darth-vader-champion-of-the-sith.jpg"
+    },
+    {
+        "name": "Sandtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/sandtrooper.jpg"
+    },
+    {
+        "name": "Snowtrooper with E-Web Blaster",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/snowtrooper-with-e-web-blaster.jpg"
+    },
+    {
+        "name": "Corran Horn",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/corran-horn.jpg"
+    },
+    {
+        "name": "Jacen Solo",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/jacen-solo.jpg"
+    },
+    {
+        "name": "Jaina Solo",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/jaina-solo.jpg"
+    },
+    {
+        "name": "Arcona Smuggler",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/arcona-smuggler.jpg"
+    },
+    {
+        "name": "Gundark",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/gundark.jpg"
+    },
+    {
+        "name": "HK-47",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/hk-47.jpg"
+    },
+    {
+        "name": "R5 Astromech Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/r5-astromech-droid.jpg"
+    },
+    {
+        "name": "Ugnaught Demolitionist",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/ugnaught-demolitionist.jpg"
+    },
+    {
+        "name": "Varactyl Wrangler",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/champions-of-the-force/varactyl-wrangler.jpg"
+    },
+    {
+        "name": "Clone Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/clone-trooper.jpg"
+    },
+    {
+        "name": "Clone Trooper on BARC Speeder",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/clone-trooper-on-barc-speeder.jpg"
+    },
+    {
+        "name": "Elite Clone Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/elite-clone-trooper.jpg"
+    },
+    {
+        "name": "Flash Speeder",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/flash-speeder.jpg"
+    },
+    {
+        "name": "Obi-Wan on Boga",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/obi-wan-on-boga.jpg"
+    },
+    {
+        "name": "Battle Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/battle-droid.jpg"
+    },
+    {
+        "name": "Darth Maul on Speeder",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/darth-maul-on-speeder.jpg"
+    },
+    {
+        "name": "Hailfire Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/hailfire-droid.jpg"
+    },
+    {
+        "name": "Nute Gunray",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/nute-gunray.jpg"
+    },
+    {
+        "name": "Super Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/super-battle-droid.jpg"
+    },
+    {
+        "name": "Super Battle Droid Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/super-battle-droid-commander.jpg"
+    },
+    {
+        "name": "Abyssin Black Sun Thug",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/abyssin-black-sun-thug.jpg"
+    },
+    {
+        "name": "Acklay",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/acklay.jpg"
+    },
+    {
+        "name": "ASP-7",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/asp-7.jpg"
+    },
+    {
+        "name": "B'omarr Monk",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/bomarr-monk.jpg"
+    },
+    {
+        "name": "Dash Rendar",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/dash-rendar.jpg"
+    },
+    {
+        "name": "Dr. Evazan",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/dr-evazan.jpg"
+    },
+    {
+        "name": "Gonk Power Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/gonk-power-droid.jpg"
+    },
+    {
+        "name": "Guri",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/guri.jpg"
+    },
+    {
+        "name": "Kaminoan Ascetic",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/kaminoan-ascetic.jpg"
+    },
+    {
+        "name": "Lando Calrissian, Hero of Taanab",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/lando-calrissian-hero-of-taanab.jpg"
+    },
+    {
+        "name": "Lobot",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/lobot.jpg"
+    },
+    {
+        "name": "Nexu",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/nexu.jpg"
+    },
+    {
+        "name": "Ponda Baba",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/ponda-baba.jpg"
+    },
+    {
+        "name": "Prince Xizor",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/prince-xizor.jpg"
+    },
+    {
+        "name": "Rancor",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/rancor.jpg"
+    },
+    {
+        "name": "Reek",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/reek.jpg"
+    },
+    {
+        "name": "Rodian Black Sun Vigo",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/rodian-black-sun-vigo.jpg"
+    },
+    {
+        "name": "Shistavanen Pilot",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/shistavanen-pilot.jpg"
+    },
+    {
+        "name": "Tusken Raider on Bantha",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/tusken-raider-on-bantha.jpg"
+    },
+    {
+        "name": "Vornskr",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/vornskr.jpg"
+    },
+    {
+        "name": "X-1 Viper Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/x-1-viper-droid.jpg"
+    },
+    {
+        "name": "AT-ST",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/at-st.jpg"
+    },
+    {
+        "name": "Baron Fel",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/baron-fel.jpg"
+    },
+    {
+        "name": "Dark Side Marauder",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/dark-side-marauder.jpg"
+    },
+    {
+        "name": "Darktrooper Phase III",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/darktrooper-phase-iii.jpg"
+    },
+    {
+        "name": "Darth Vader, Jedi Hunter",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/darth-vader-jedi-hunter.jpg"
+    },
+    {
+        "name": "Grand Admiral Thrawn",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/grand-admiral-thrawn.jpg"
+    },
+    {
+        "name": "Nightsister Sith Witch",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/nightsister-sith-witch.jpg"
+    },
+    {
+        "name": "Noghri",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/noghri.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/stormtrooper.jpg"
+    },
+    {
+        "name": "Stormtrooper Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/stormtrooper-commander.jpg"
+    },
+    {
+        "name": "Admiral Ackbar",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/admiral-ackbar.jpg"
+    },
+    {
+        "name": "Bith Rebel",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/bith-rebel.jpg"
+    },
+    {
+        "name": "Chewbacca, Rebel Hero",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/chewbacca-rebel-hero.jpg"
+    },
+    {
+        "name": "Dressellian Commando",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/dressellian-commando.jpg"
+    },
+    {
+        "name": "Han Solo, Rebel Hero",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/han-solo-rebel-hero.jpg"
+    },
+    {
+        "name": "Luke Skywalker on Tauntaun",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/luke-skywalker-on-tauntaun.jpg"
+    },
+    {
+        "name": "Nien Nunb",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/nien-nunb.jpg"
+    },
+    {
+        "name": "Princess Leia, Rebel Hero",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/princess-leia-rebel-hero.jpg"
+    },
+    {
+        "name": "Wedge Antilles",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/wedge-antilles.jpg"
+    },
+    {
+        "name": "Kyle Katarn",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/kyle-katarn.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Jedi Master",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/luke-skywalker-jedi-master.jpg"
+    },
+    {
+        "name": "New Republic Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/new-republic-commander.jpg"
+    },
+    {
+        "name": "New Republic Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/new-republic-trooper.jpg"
+    },
+    {
+        "name": "Young Jedi Knight",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/young-jedi-knight.jpg"
+    },
+    {
+        "name": "Nom Anor",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/nom-anor.jpg"
+    },
+    {
+        "name": "Warmaster Tsavong Lah",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/warmaster-tsavong-lah.jpg"
+    },
+    {
+        "name": "Yuuzhan Vong Subaltern",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/yuuzhan-vong-subaltern.jpg"
+    },
+    {
+        "name": "Yuuzhan Vong Warrior",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/universe/yuuzhan-vong-warrior.jpg"
+    },
+    {
+        "name": "Agen Kolar, Jedi Master",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/agen-kolar-jedi-master.jpg"
+    },
+    {
+        "name": "Alderaan Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/alderaan-trooper.jpg"
+    },
+    {
+        "name": "Anakin Skywalker, Jedi Knight",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/anakin-skywalker-jedi-knight.jpg"
+    },
+    {
+        "name": "AT-RT",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/at-rt.jpg"
+    },
+    {
+        "name": "Bail Organa",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/bail-organa.jpg"
+    },
+    {
+        "name": "Captain Antilles",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/captain-antilles.jpg"
+    },
+    {
+        "name": "Chewbacca Of Kashyyyk",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/chewbacca-of-kashyyyk.jpg"
+    },
+    {
+        "name": "Clone Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/clone-trooper-8.jpg"
+    },
+    {
+        "name": "Clone Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/clone-trooper-9.jpg"
+    },
+    {
+        "name": "Clone Trooper Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/clone-trooper-commander.jpg"
+    },
+    {
+        "name": "Clone Trooper Gunner",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/clone-trooper-gunner.jpg"
+    },
+    {
+        "name": "Jedi Knight",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/jedi-knight.jpg"
+    },
+    {
+        "name": "Mace Windu, Jedi Master",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/mace-windu-jedi-master.jpg"
+    },
+    {
+        "name": "Mon Mothma",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/mon-mothma.jpg"
+    },
+    {
+        "name": "Obi-Wan Kenobi, Jedi Master",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/obi-wan-kenobi-jedi-master.jpg"
+    },
+    {
+        "name": "Polis Massa Medic",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/polis-massa-medic.jpg"
+    },
+    {
+        "name": "R2-D2, Astromech Droid",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/r2-d2-astromech-droid.jpg"
+    },
+    {
+        "name": "Senate Guard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/senate-guard.jpg"
+    },
+    {
+        "name": "Shaak Ti",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/shaak-ti.jpg"
+    },
+    {
+        "name": "Stass Allie",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/stass-allie.jpg"
+    },
+    {
+        "name": "Tarfful",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/tarfful.jpg"
+    },
+    {
+        "name": "Wookiee Berserker",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/wookiee-berserker.jpg"
+    },
+    {
+        "name": "Wookiee Scout",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/wookiee-scout.jpg"
+    },
+    {
+        "name": "Yoda, Jedi Master",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/yoda-jedi-master.jpg"
+    },
+    {
+        "name": "Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/battle-droid-25.jpg"
+    },
+    {
+        "name": "Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/battle-droid-26.jpg"
+    },
+    {
+        "name": "Bodyguard Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/bodyguard-droid-27.jpg"
+    },
+    {
+        "name": "Bodyguard Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/bodyguard-droid-28.jpg"
+    },
+    {
+        "name": "Darth Tyranus",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/darth-tyranus.jpg"
+    },
+    {
+        "name": "Destroyer Droid",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/destroyer-droid.jpg"
+    },
+    {
+        "name": "General Grievous, Jedi Hunter",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/general-grievous-jedi-hunter.jpg"
+    },
+    {
+        "name": "General Grievous, Supreme Commander",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/general-grievous-supreme-commander.jpg"
+    },
+    {
+        "name": "Grievous's Wheelbike",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/grievouss-wheelbike.jpg"
+    },
+    {
+        "name": "Muun Guard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/muun-guard.jpg"
+    },
+    {
+        "name": "Neimoidian Soldier",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/neimoidian-soldier-35.jpg"
+    },
+    {
+        "name": "Neimoidian Soldier",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/neimoidian-soldier-36.jpg"
+    },
+    {
+        "name": "San Hill",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/san-hill.jpg"
+    },
+    {
+        "name": "Separatist Commando",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/separatist-commando.jpg"
+    },
+    {
+        "name": "Super Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/super-battle-droid-39.jpg"
+    },
+    {
+        "name": "Super Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/super-battle-droid-40.jpg"
+    },
+    {
+        "name": "Wat Tambor",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/wat-tambor.jpg"
+    },
+    {
+        "name": "Boba Fett, Young Mercenary",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/boba-fett-young-mercenary.jpg"
+    },
+    {
+        "name": "Chagrian Mercenary Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/chagrian-mercenary-commander.jpg"
+    },
+    {
+        "name": "Devaronian Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/devaronian-soldier.jpg"
+    },
+    {
+        "name": "Gotal Fringer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/gotal-fringer.jpg"
+    },
+    {
+        "name": "Human Mercenary",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/human-mercenary.jpg"
+    },
+    {
+        "name": "Iktotchi Tech Specialist",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/iktotchi-tech-specialist.jpg"
+    },
+    {
+        "name": "Medical Droid",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/medical-droid.jpg"
+    },
+    {
+        "name": "Nautolan Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/nautolan-soldier.jpg"
+    },
+    {
+        "name": "Sly Moore",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/sly-moore.jpg"
+    },
+    {
+        "name": "Tion Medon",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/tion-medon.jpg"
+    },
+    {
+        "name": "Utapaun Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/utapaun-soldier-52.jpg"
+    },
+    {
+        "name": "Utapaun Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/utapaun-soldier-53.jpg"
+    },
+    {
+        "name": "Yuzzem",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/yuzzem.jpg"
+    },
+    {
+        "name": "Zabrak Fringer",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/zabrak-fringer.jpg"
+    },
+    {
+        "name": "Anakin Skywalker, Sith Apprentice",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/anakin-skywalker-sith-apprentice.jpg"
+    },
+    {
+        "name": "Dark Side Adept",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/dark-side-adept.jpg"
+    },
+    {
+        "name": "Darth Vader",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/darth-vader.jpg"
+    },
+    {
+        "name": "Emperor Palpatine, Sith Lord",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/emperor-palpatine-sith-lord.jpg"
+    },
+    {
+        "name": "Royal Guard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/revenge-of-the-sith/royal-guard.jpg"
+    },
+    {
+        "name": "Aayla Secura",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/aayla-secura.jpg"
+    },
+    {
+        "name": "Aerial Clone Trooper Captain",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/aerial-clone-trooper-captain.jpg"
+    },
+    {
+        "name": "Anakin Skywalker",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/anakin-skywalker.jpg"
+    },
+    {
+        "name": "ARC Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/arc-trooper.jpg"
+    },
+    {
+        "name": "Captain Typho",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/captain-typho.jpg"
+    },
+    {
+        "name": "Clone Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/clone-trooper-6.jpg"
+    },
+    {
+        "name": "Clone Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/clone-trooper-7.jpg"
+    },
+    {
+        "name": "Clone Trooper Commander",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/clone-trooper-commander.jpg"
+    },
+    {
+        "name": "Clone Trooper Grenadier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/clone-trooper-grenadier.jpg"
+    },
+    {
+        "name": "Clone Trooper Sergeant",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/clone-trooper-sergeant.jpg"
+    },
+    {
+        "name": "Agen Kolar",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/agen-kolar.jpg"
+    },
+    {
+        "name": "General Kenobi",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/general-kenobi.jpg"
+    },
+    {
+        "name": "Gungan Cavalry on Kaadu",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/gungan-cavalry-on-kaadu.jpg"
+    },
+    {
+        "name": "Gungan Infantry",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/gungan-infantry.jpg"
+    },
+    {
+        "name": "Jedi Guardian",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/jedi-guardian.jpg"
+    },
+    {
+        "name": "Ki-Adi-Mundi",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/ki-adi-mundi.jpg"
+    },
+    {
+        "name": "Kit Fisto",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/kit-fisto.jpg"
+    },
+    {
+        "name": "Luminara Unduli",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/luminara-unduli.jpg"
+    },
+    {
+        "name": "Mace Windu",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/mace-windu.jpg"
+    },
+    {
+        "name": "Naboo Soldier",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/naboo-soldier.jpg"
+    },
+    {
+        "name": "Padme Amidala",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/padme-amidala.jpg"
+    },
+    {
+        "name": "Plo Koon",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/plo-koon.jpg"
+    },
+    {
+        "name": "Qui-Gon Jinn",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/qui-gon-jinn.jpg"
+    },
+    {
+        "name": "Quinlan Vos",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/quinlan-vos.jpg"
+    },
+    {
+        "name": "Saesee Tiin",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/saesee-tiin.jpg"
+    },
+    {
+        "name": "Yoda",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/yoda.jpg"
+    },
+    {
+        "name": "Asajj Ventress",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/asajj-ventress.jpg"
+    },
+    {
+        "name": "Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/battle-droid-28.jpg"
+    },
+    {
+        "name": "Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/battle-droid-29.jpg"
+    },
+    {
+        "name": "Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/battle-droid-30.jpg"
+    },
+    {
+        "name": "Battle Droid Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/battle-droid-officer.jpg"
+    },
+    {
+        "name": "Battle Droid on STAP",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/battle-droid-on-stap.jpg"
+    },
+    {
+        "name": "Count Dooku",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/count-dooku.jpg"
+    },
+    {
+        "name": "Dark Side Acolyte",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/dark-side-acolyte.jpg"
+    },
+    {
+        "name": "Darth Maul",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/darth-maul.jpg"
+    },
+    {
+        "name": "Darth Sidious",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/darth-sidious.jpg"
+    },
+    {
+        "name": "Destroyer Droid",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/destroyer-droid.jpg"
+    },
+    {
+        "name": "Durge",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/durge.jpg"
+    },
+    {
+        "name": "Dwarf Spider Droid",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/dwarf-spider-droid.jpg"
+    },
+    {
+        "name": "General Grievous",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/general-grievous.jpg"
+    },
+    {
+        "name": "Geonosian Drone",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/geonosian-drone.jpg"
+    },
+    {
+        "name": "Geonosian Overseer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/geonosian-overseer.jpg"
+    },
+    {
+        "name": "Geonosian Picador on Orray",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/geonosian-picador-on-orray.jpg"
+    },
+    {
+        "name": "Geonosian Soldier",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/geonosian-soldier.jpg"
+    },
+    {
+        "name": "Jango Fett",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/jango-fett.jpg"
+    },
+    {
+        "name": "Security Battle Droid",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/security-battle-droid.jpg"
+    },
+    {
+        "name": "Super Battle Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/super-battle-droid-47.jpg"
+    },
+    {
+        "name": "Super Battle Droid",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/super-battle-droid-48.jpg"
+    },
+    {
+        "name": "Aqualish Spy",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/aqualish-spy.jpg"
+    },
+    {
+        "name": "Aurra Sing",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/aurra-sing.jpg"
+    },
+    {
+        "name": "Devaronian Bounty Hunter",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/devaronian-bounty-hunter.jpg"
+    },
+    {
+        "name": "Gran Raider",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/gran-raider.jpg"
+    },
+    {
+        "name": "Ishi Tib Scout",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/ishi-tib-scout.jpg"
+    },
+    {
+        "name": "Klatooinian Enforcer",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/klatooinian-enforcer.jpg"
+    },
+    {
+        "name": "Nikto Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/nikto-soldier.jpg"
+    },
+    {
+        "name": "Quarren Raider",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/quarren-raider.jpg"
+    },
+    {
+        "name": "Rodian Mercenary",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/rodian-mercenary.jpg"
+    },
+    {
+        "name": "Weequay Mercenary",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/weequay-mercenary.jpg"
+    },
+    {
+        "name": "Wookiee Commando",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/wookiee-commando.jpg"
+    },
+    {
+        "name": "Zam Wesell",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/clone-strike/zam-wesell.jpg"
+    },
+    {
+        "name": "Bothan Spy",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/bothan-spy.jpg"
+    },
+    {
+        "name": "C-3PO",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/c-3po.jpg"
+    },
+    {
+        "name": "Chewbacca",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/chewbacca.jpg"
+    },
+    {
+        "name": "Commando On Speeder Bike",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/commando-on-speeder-bike.jpg"
+    },
+    {
+        "name": "Elite Hoth Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/elite-hoth-trooper.jpg"
+    },
+    {
+        "name": "Elite Rebel Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/elite-rebel-trooper.jpg"
+    },
+    {
+        "name": "Han Solo",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/han-solo.jpg"
+    },
+    {
+        "name": "Hoth Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/hoth-trooper.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Jedi Knight",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/luke-skywalker-jedi-knight.jpg"
+    },
+    {
+        "name": "Luke Skywalker, Rebel",
+        "rarity": "Unique",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/luke-skywalker-rebel.jpg"
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/obi-wan-kenobi.jpg"
+    },
+    {
+        "name": "Princess Leia, Captive",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/princess-leia-captive.jpg"
+    },
+    {
+        "name": "Princess Leia, Senator",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/princess-leia-senator.jpg"
+    },
+    {
+        "name": "R2-D2",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/r2-d2.jpg"
+    },
+    {
+        "name": "Rebel Commando",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/rebel-commando.jpg"
+    },
+    {
+        "name": "Rebel Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/rebel-officer.jpg"
+    },
+    {
+        "name": "Rebel Pilot",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/rebel-pilot.jpg"
+    },
+    {
+        "name": "Rebel Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/rebel-trooper-18.jpg"
+    },
+    {
+        "name": "Rebel Trooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/rebel-trooper-19.jpg"
+    },
+    {
+        "name": "Wookiee Soldier",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/wookiee-soldier.jpg"
+    },
+    {
+        "name": "Darth Vader, Dark Jedi",
+        "rarity": "Unique",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/darth-vader-dark-jedi.jpg"
+    },
+    {
+        "name": "Darth Vader, Sith Lord",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/darth-vader-sith-lord.jpg"
+    },
+    {
+        "name": "Elite Snowtrooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/elite-snowtrooper.jpg"
+    },
+    {
+        "name": "Elite Stormtrooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/elite-stormtrooper.jpg"
+    },
+    {
+        "name": "Emperor Palpatine",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/emperor-palpatine.jpg"
+    },
+    {
+        "name": "General Veers",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/general-veers.jpg"
+    },
+    {
+        "name": "Grand Moff Tarkin",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/grand-moff-tarkin.jpg"
+    },
+    {
+        "name": "Heavy Stormtrooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/heavy-stormtrooper.jpg"
+    },
+    {
+        "name": "Imperial Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/imperial-officer.jpg"
+    },
+    {
+        "name": "Mara Jade, Emperor's Hand",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/mara-jade-emperors-hand.jpg"
+    },
+    {
+        "name": "Probe Droid",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/probe-droid.jpg"
+    },
+    {
+        "name": "Royal Guard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/royal-guard.jpg"
+    },
+    {
+        "name": "Scout Trooper",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/scout-trooper.jpg"
+    },
+    {
+        "name": "Scout Trooper on Speeder Bike",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/scout-trooper-on-speeder-bike.jpg"
+    },
+    {
+        "name": "Snowtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/snowtrooper.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/stormtrooper-36.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/stormtrooper-37.jpg"
+    },
+    {
+        "name": "Stormtrooper",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/stormtrooper-38.jpg"
+    },
+    {
+        "name": "Stormtrooper Officer",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/stormtrooper-officer.jpg"
+    },
+    {
+        "name": "Sandtrooper on Dewback",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/sandtrooper-on-dewback.jpg"
+    },
+    {
+        "name": "Bespin Guard",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/bespin-guard.jpg"
+    },
+    {
+        "name": "Boba Fett",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/boba-fett.jpg"
+    },
+    {
+        "name": "Dengar",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/dengar.jpg"
+    },
+    {
+        "name": "Duros Mercenary",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/duros-mercenary.jpg"
+    },
+    {
+        "name": "Ewok",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/ewok.jpg"
+    },
+    {
+        "name": "4-LOM",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/4-lom.jpg"
+    },
+    {
+        "name": "Gamorrean Guard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/gamorrean-guard.jpg"
+    },
+    {
+        "name": "IG-88",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/ig-88.jpg"
+    },
+    {
+        "name": "Ithorian Scout",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/ithorian-scout.jpg"
+    },
+    {
+        "name": "Jabba the Hutt",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/jabba-the-hutt.jpg"
+    },
+    {
+        "name": "Jawa",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/jawa.jpg"
+    },
+    {
+        "name": "Lando Calrissian",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/lando-calrissian.jpg"
+    },
+    {
+        "name": "Mon Calamari Mercenary",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/mon-calamari-mercenary.jpg"
+    },
+    {
+        "name": "Quarren Assassin",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/quarren-assassin.jpg"
+    },
+    {
+        "name": "Greedo",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/greedo.jpg"
+    },
+    {
+        "name": "Bossk",
+        "rarity": "Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/bossk.jpg"
+    },
+    {
+        "name": "Tusken Raider",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/tusken-raider.jpg"
+    },
+    {
+        "name": "Twi'lek Bodyguard",
+        "rarity": "Uncommon",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/twilek-bodyguard.jpg"
+    },
+    {
+        "name": "Twi'lek Scoundrel",
+        "rarity": "Common",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/twilek-scoundrel.jpg"
+    },
+    {
+        "name": "Wampa",
+        "rarity": "Very Rare",
+        "fig_img_url": "https://www.minisgallery.com/images/minis/star-wars-miniatures/rebel-storm/wampa.jpg"
+    }
+]

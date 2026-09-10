@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Fejléc (Header) -->
+    <header class="app-header">
+        <div class="logo-area">
+            <span class="holo-icon" id="kör">⬤</span>
+            <span class="holo-icon" id="rombusz">◆</span>
+            <span class="holo-icon">★</span>
+            <span class="holo-icon">✪</span>
+            <h1>MINIATURE <span>GYŰJTEMÉNY</span></h1>
+        </div>
+
+        <!-- Szűrő gombok -->
+        <nav class="nav-buttons">
+            <a href="index.html"><button class="sw-btn">Főoldal</button></a>
+        </nav>
+    </header>
+
+    <div class="app-container">
+        <!-- Oldalsáv (Sidebar) -->
+        <nav class="sci-fi-sidebar">
+            <div class="sidebar-header">
+                Szettek
+            </div>
+            <ul class="sidebar-menu" id="set_list">
+            </ul>
+            
+            <div class="sidebar-header" style="margin-top: 20px;">
+                Frakciók
+            </div>
+            <ul class="sidebar-menu" id="fraction_list">
+
+            </ul>
+            <div class="sidebar-header" style="margin-top: 20px;">
+                Ritkaság
+            </div>
+            <ul class="sidebar-menu" id="rarity_list">
+
+            </ul>
+        </nav>
+
+        <!-- Fő tartalom: A kártyák hálója -->
+        <main class="main-content">
+            <div class="scroll-area">
+                <div id="maps-container">
+                    
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modális ablak -->
+    <dialog id="myModal">
+        <div id="modalContent"></div>
+    </dialog>
+    
+    <script src="maps.js"></script>
+</body>
+</html>
